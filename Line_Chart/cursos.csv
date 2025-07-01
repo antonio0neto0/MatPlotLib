@@ -1,0 +1,1101 @@
+ID,Faculdade,Curso,Duracao_Anos,Mensalidade,Turno,Data
+1,Faculdade Delta,Arquitetura,5,1853.08,Vespertino,2021-08-26
+2,Centro Universitário Theta,Direito,5,1062.15,Matutino,2015-02-03
+3,Escola Superior Epsilon,Arquitetura,5,1307.86,Vespertino,2014-10-20
+4,Universidade Alpha,Psicologia,5,1019.5,Matutino,2018-01-19
+5,Universidade Zeta,Direito,5,1156.71,Matutino,2015-08-21
+6,Instituto Beta de Tecnologia,Odontologia,5,4803.34,Vespertino,2019-01-31
+7,Instituto Beta de Tecnologia,Medicina,6,5952.27,Vespertino,2013-06-07
+8,Escola Superior Kappa,Economia,4,1014.74,Vespertino,2017-07-14
+9,Faculdade Delta,Engenharia Civil,5,2159.25,Matutino,2017-12-03
+10,Universidade Alpha,Administração,4,563.63,Vespertino,2016-02-27
+11,Escola Superior Epsilon,Direito,5,1042.18,Matutino,2013-01-22
+12,Centro Universitário Theta,Enfermagem,5,1039.66,Noturno,2015-02-11
+13,Universidade Alpha,Economia,4,1147.32,Vespertino,2020-01-17
+14,Universidade Alpha,Economia,4,1282.1,Vespertino,2023-10-29
+15,Faculdade Iota,Direito,5,1546.37,Matutino,2022-07-02
+16,Universidade Alpha,Engenharia Civil,5,2337.23,Vespertino,2019-12-10
+17,Instituto Beta de Tecnologia,Engenharia Civil,5,2820.15,Noturno,2023-11-10
+18,Escola Superior Epsilon,Engenharia Civil,5,2358.51,Noturno,2020-01-11
+19,Centro Universitário Gamma,Economia,4,918.18,Matutino,2015-02-13
+20,Centro Universitário Gamma,Odontologia,5,6785.67,Noturno,2023-01-31
+21,Instituto Beta de Tecnologia,Medicina,6,9969.98,Noturno,2019-08-09
+22,Faculdade Iota,Arquitetura,5,1783.2,Noturno,2019-12-13
+23,Instituto Eta de Ciências,Arquitetura,5,1491.43,Noturno,2016-05-25
+24,Instituto Eta de Ciências,Engenharia Civil,5,1787.04,Noturno,2014-02-19
+25,Faculdade Iota,Arquitetura,5,1562.5,Matutino,2016-07-29
+26,Centro Universitário Theta,Administração,4,562.63,Vespertino,2016-11-09
+27,Centro Universitário Theta,Administração,4,851.04,Matutino,2023-07-17
+28,Universidade Alpha,Arquitetura,5,1644.62,Noturno,2017-08-23
+29,Escola Superior Epsilon,Odontologia,5,3018.03,Vespertino,2013-10-21
+30,Faculdade Iota,Economia,4,1140.48,Noturno,2020-10-13
+31,Escola Superior Epsilon,Ciência da Computação,4,1734.71,Vespertino,2015-02-17
+32,Instituto Eta de Ciências,Administração,4,854.54,Vespertino,2023-04-02
+33,Centro Universitário Theta,Economia,4,919.69,Noturno,2015-02-10
+34,Universidade Zeta,Direito,5,1415.76,Matutino,2020-10-27
+35,Universidade Alpha,Engenharia Civil,5,2187.56,Matutino,2018-10-12
+36,Faculdade Delta,Psicologia,5,904.35,Matutino,2015-08-16
+37,Universidade Alpha,Economia,4,1143.05,Matutino,2021-08-25
+38,Escola Superior Kappa,Ciência da Computação,4,2181.71,Vespertino,2018-12-29
+39,Faculdade Iota,Arquitetura,5,1606.06,Vespertino,2018-08-24
+40,Centro Universitário Theta,Direito,5,1323.01,Vespertino,2018-12-25
+41,Faculdade Delta,Odontologia,5,3485.28,Noturno,2015-08-01
+42,Escola Superior Kappa,Economia,4,867.72,Vespertino,2015-12-07
+43,Centro Universitário Gamma,Arquitetura,5,2093.42,Vespertino,2023-12-15
+44,Escola Superior Kappa,Psicologia,5,854.29,Matutino,2015-07-06
+45,Escola Superior Epsilon,Medicina,6,10383.89,Matutino,2020-04-06
+46,Centro Universitário Gamma,Medicina,6,12729.72,Matutino,2023-08-27
+47,Escola Superior Epsilon,Enfermagem,5,919.76,Matutino,2013-04-18
+48,Universidade Zeta,Direito,5,1050.58,Vespertino,2014-04-29
+49,Instituto Beta de Tecnologia,Enfermagem,5,1418.86,Noturno,2019-05-22
+50,Faculdade Iota,Direito,5,1260.8,Matutino,2017-08-17
+51,Centro Universitário Theta,Administração,4,544.58,Vespertino,2014-07-04
+52,Instituto Eta de Ciências,Engenharia Civil,5,2626.57,Vespertino,2021-05-13
+53,Instituto Eta de Ciências,Arquitetura,5,1796.56,Noturno,2019-09-22
+54,Centro Universitário Theta,Direito,5,1489.57,Matutino,2022-07-07
+55,Centro Universitário Gamma,Ciência da Computação,4,1687.72,Noturno,2014-07-18
+56,Centro Universitário Theta,Ciência da Computação,4,1631.95,Noturno,2014-06-30
+57,Faculdade Iota,Ciência da Computação,4,2320.42,Vespertino,2019-09-05
+58,Instituto Eta de Ciências,Administração,4,553.13,Vespertino,2015-07-27
+59,Centro Universitário Gamma,Engenharia Civil,5,1671.02,Matutino,2013-07-16
+60,Universidade Zeta,Arquitetura,5,1770.61,Noturno,2020-06-24
+61,Instituto Eta de Ciências,Odontologia,5,3493.69,Vespertino,2015-03-25
+62,Instituto Eta de Ciências,Odontologia,5,4855.33,Vespertino,2019-08-13
+63,Centro Universitário Theta,Odontologia,5,3348.79,Matutino,2015-06-11
+64,Instituto Eta de Ciências,Direito,5,1401.19,Noturno,2020-10-17
+65,Escola Superior Kappa,Medicina,6,9617.9,Vespertino,2019-02-16
+66,Centro Universitário Gamma,Engenharia Civil,5,2197.73,Vespertino,2019-09-12
+67,Universidade Zeta,Administração,4,478.23,Matutino,2013-03-16
+68,Faculdade Delta,Enfermagem,5,953.9,Vespertino,2014-08-09
+69,Faculdade Delta,Direito,5,1011.99,Vespertino,2013-08-10
+70,Centro Universitário Theta,Enfermagem,5,1874.83,Matutino,2023-08-17
+71,Instituto Eta de Ciências,Economia,4,1166.59,Noturno,2021-09-01
+72,Universidade Zeta,Odontologia,5,3365.78,Noturno,2015-11-10
+73,Instituto Beta de Tecnologia,Medicina,6,8432.3,Noturno,2017-05-20
+74,Escola Superior Epsilon,Medicina,6,10899.84,Vespertino,2021-06-26
+75,Escola Superior Kappa,Administração,4,523.12,Vespertino,2013-01-30
+76,Faculdade Iota,Enfermagem,5,1584.13,Matutino,2020-05-25
+77,Centro Universitário Theta,Direito,5,1341.61,Noturno,2020-06-05
+78,Escola Superior Kappa,Medicina,6,11738.87,Vespertino,2022-06-07
+79,Instituto Beta de Tecnologia,Economia,4,1277.75,Noturno,2023-05-31
+80,Instituto Eta de Ciências,Arquitetura,5,1862.59,Matutino,2021-10-20
+81,Centro Universitário Theta,Odontologia,5,4518.63,Matutino,2018-11-16
+82,Universidade Zeta,Economia,4,944.74,Vespertino,2017-10-05
+83,Escola Superior Epsilon,Arquitetura,5,1741.52,Matutino,2019-03-03
+84,Instituto Beta de Tecnologia,Administração,4,831.93,Noturno,2023-05-17
+85,Instituto Eta de Ciências,Medicina,6,10397.12,Noturno,2020-04-20
+86,Escola Superior Kappa,Enfermagem,5,1498.49,Matutino,2020-01-21
+87,Instituto Beta de Tecnologia,Enfermagem,5,945.06,Vespertino,2014-08-21
+88,Faculdade Iota,Ciência da Computação,4,1557.54,Vespertino,2014-04-28
+89,Centro Universitário Gamma,Ciência da Computação,4,2271.06,Matutino,2019-09-01
+90,Universidade Alpha,Medicina,6,6651.86,Matutino,2014-11-16
+91,Universidade Zeta,Direito,5,1268.64,Matutino,2018-01-01
+92,Faculdade Iota,Direito,5,1108.0,Matutino,2016-09-21
+93,Instituto Eta de Ciências,Ciência da Computação,4,2156.14,Noturno,2018-03-12
+94,Faculdade Iota,Ciência da Computação,4,2281.32,Noturno,2018-09-21
+95,Faculdade Delta,Direito,5,1218.73,Vespertino,2018-11-01
+96,Universidade Alpha,Psicologia,5,900.69,Noturno,2016-09-12
+97,Faculdade Delta,Ciência da Computação,4,1724.02,Vespertino,2015-09-03
+98,Faculdade Iota,Psicologia,5,844.05,Matutino,2014-07-06
+99,Faculdade Delta,Psicologia,5,1076.23,Noturno,2020-11-07
+100,Instituto Beta de Tecnologia,Engenharia Civil,5,2516.69,Vespertino,2021-09-13
+101,Faculdade Iota,Engenharia Civil,5,2475.23,Matutino,2021-01-04
+102,Centro Universitário Theta,Arquitetura,5,1757.88,Matutino,2019-03-05
+103,Escola Superior Epsilon,Arquitetura,5,2196.3,Noturno,2023-07-18
+104,Escola Superior Kappa,Direito,5,1283.09,Matutino,2018-08-16
+105,Centro Universitário Gamma,Psicologia,5,989.31,Noturno,2018-03-16
+106,Faculdade Iota,Arquitetura,5,1882.13,Vespertino,2020-04-09
+107,Universidade Alpha,Psicologia,5,875.84,Vespertino,2015-10-14
+108,Instituto Eta de Ciências,Enfermagem,5,1557.7,Vespertino,2020-01-16
+109,Faculdade Delta,Enfermagem,5,1589.92,Matutino,2021-05-23
+110,Universidade Alpha,Enfermagem,5,1384.98,Vespertino,2019-01-31
+111,Centro Universitário Theta,Engenharia Civil,5,2063.41,Matutino,2017-04-06
+112,Instituto Eta de Ciências,Medicina,6,9277.32,Matutino,2019-11-07
+113,Centro Universitário Theta,Arquitetura,5,1345.87,Matutino,2013-07-29
+114,Faculdade Delta,Psicologia,5,1068.95,Matutino,2018-10-30
+115,Faculdade Iota,Ciência da Computação,4,2653.14,Matutino,2020-04-20
+116,Faculdade Iota,Administração,4,659.64,Matutino,2019-10-26
+117,Universidade Alpha,Enfermagem,5,1173.84,Vespertino,2016-03-08
+118,Instituto Eta de Ciências,Enfermagem,5,956.05,Vespertino,2014-12-17
+119,Centro Universitário Gamma,Direito,5,1354.86,Matutino,2019-01-21
+120,Instituto Eta de Ciências,Engenharia Civil,5,2084.35,Vespertino,2018-08-10
+121,Faculdade Iota,Direito,5,1329.32,Matutino,2019-01-04
+122,Universidade Zeta,Medicina,6,12308.14,Noturno,2023-09-12
+123,Escola Superior Epsilon,Enfermagem,5,1638.41,Matutino,2021-10-22
+124,Universidade Zeta,Engenharia Civil,5,2159.44,Noturno,2017-01-30
+125,Escola Superior Epsilon,Odontologia,5,3920.49,Matutino,2016-10-07
+126,Faculdade Delta,Direito,5,1430.24,Noturno,2021-11-03
+127,Instituto Beta de Tecnologia,Psicologia,5,836.27,Vespertino,2014-03-14
+128,Universidade Alpha,Direito,5,1548.05,Matutino,2021-06-29
+129,Instituto Eta de Ciências,Psicologia,5,1156.88,Vespertino,2020-11-13
+130,Instituto Eta de Ciências,Odontologia,5,6185.12,Matutino,2023-11-03
+131,Universidade Zeta,Arquitetura,5,1243.36,Vespertino,2013-04-22
+132,Instituto Eta de Ciências,Administração,4,618.37,Matutino,2017-09-03
+133,Faculdade Delta,Economia,4,1004.6,Vespertino,2017-04-08
+134,Faculdade Delta,Odontologia,5,4903.38,Matutino,2019-08-26
+135,Universidade Alpha,Ciência da Computação,4,3009.28,Vespertino,2022-05-31
+136,Escola Superior Kappa,Enfermagem,5,1009.11,Noturno,2015-09-04
+137,Escola Superior Kappa,Direito,5,1191.26,Vespertino,2017-10-25
+138,Faculdade Iota,Engenharia Civil,5,2489.58,Noturno,2020-03-07
+139,Instituto Eta de Ciências,Administração,4,659.63,Vespertino,2018-03-03
+140,Escola Superior Epsilon,Arquitetura,5,1555.2,Noturno,2016-04-25
+141,Faculdade Iota,Enfermagem,5,984.82,Vespertino,2014-09-26
+142,Centro Universitário Theta,Economia,4,1210.95,Matutino,2022-10-01
+143,Universidade Alpha,Psicologia,5,1117.1,Matutino,2019-04-15
+144,Escola Superior Kappa,Odontologia,5,4238.01,Noturno,2018-07-21
+145,Escola Superior Epsilon,Ciência da Computação,4,3145.21,Vespertino,2022-06-30
+146,Universidade Alpha,Arquitetura,5,1803.89,Matutino,2020-11-14
+147,Faculdade Iota,Odontologia,5,3819.23,Vespertino,2016-03-03
+148,Universidade Alpha,Direito,5,1458.25,Matutino,2020-11-15
+149,Centro Universitário Theta,Enfermagem,5,979.02,Noturno,2014-12-01
+150,Instituto Beta de Tecnologia,Odontologia,5,3482.93,Matutino,2015-07-02
+151,Instituto Eta de Ciências,Direito,5,1321.52,Matutino,2019-12-06
+152,Escola Superior Kappa,Arquitetura,5,1899.58,Vespertino,2021-03-20
+153,Centro Universitário Gamma,Enfermagem,5,1103.75,Noturno,2016-06-10
+154,Escola Superior Kappa,Psicologia,5,1134.14,Vespertino,2021-09-29
+155,Universidade Zeta,Direito,5,1167.03,Noturno,2017-03-25
+156,Faculdade Iota,Administração,4,494.39,Noturno,2013-06-19
+157,Instituto Eta de Ciências,Ciência da Computação,4,2641.68,Vespertino,2020-11-19
+158,Faculdade Delta,Ciência da Computação,4,2661.21,Matutino,2021-06-19
+159,Centro Universitário Gamma,Economia,4,837.82,Noturno,2014-06-11
+160,Instituto Eta de Ciências,Psicologia,5,1270.14,Matutino,2022-06-11
+161,Universidade Zeta,Administração,4,747.66,Vespertino,2021-11-23
+162,Faculdade Delta,Medicina,6,11342.54,Noturno,2021-08-28
+163,Centro Universitário Theta,Psicologia,5,1332.68,Matutino,2023-11-11
+164,Escola Superior Kappa,Odontologia,5,5197.06,Matutino,2020-11-02
+165,Instituto Eta de Ciências,Economia,4,1040.84,Vespertino,2019-03-21
+166,Faculdade Iota,Enfermagem,5,857.03,Vespertino,2013-09-07
+167,Universidade Zeta,Odontologia,5,3973.03,Vespertino,2017-04-02
+168,Escola Superior Kappa,Engenharia Civil,5,1941.13,Noturno,2015-09-28
+169,Centro Universitário Theta,Ciência da Computação,4,2983.67,Matutino,2022-07-27
+170,Universidade Alpha,Economia,4,829.35,Vespertino,2014-02-20
+171,Universidade Zeta,Administração,4,655.45,Matutino,2018-07-02
+172,Universidade Zeta,Engenharia Civil,5,2297.03,Noturno,2020-11-26
+173,Escola Superior Kappa,Direito,5,962.4,Matutino,2013-11-23
+174,Escola Superior Kappa,Economia,4,942.87,Matutino,2016-04-15
+175,Universidade Alpha,Arquitetura,5,1897.5,Matutino,2021-02-09
+176,Universidade Zeta,Psicologia,5,1020.2,Vespertino,2017-01-14
+177,Centro Universitário Theta,Administração,4,635.4,Noturno,2017-08-20
+178,Faculdade Iota,Odontologia,5,6482.35,Vespertino,2023-03-31
+179,Instituto Eta de Ciências,Medicina,6,12118.18,Vespertino,2022-08-10
+180,Escola Superior Epsilon,Psicologia,5,987.28,Matutino,2017-11-12
+181,Faculdade Iota,Ciência da Computação,4,2733.59,Vespertino,2021-10-02
+182,Escola Superior Kappa,Administração,4,817.28,Noturno,2023-07-12
+183,Escola Superior Kappa,Engenharia Civil,5,2493.48,Noturno,2021-10-05
+184,Centro Universitário Theta,Psicologia,5,1192.93,Vespertino,2021-02-12
+185,Instituto Beta de Tecnologia,Economia,4,939.3,Vespertino,2016-01-19
+186,Faculdade Iota,Administração,4,761.09,Matutino,2022-12-27
+187,Escola Superior Kappa,Engenharia Civil,5,1942.93,Matutino,2016-10-15
+188,Faculdade Delta,Ciência da Computação,4,1600.44,Vespertino,2014-01-03
+189,Faculdade Delta,Economia,4,1254.98,Noturno,2023-06-07
+190,Universidade Zeta,Odontologia,5,3145.73,Vespertino,2013-08-27
+191,Centro Universitário Theta,Engenharia Civil,5,2600.93,Vespertino,2022-08-11
+192,Centro Universitário Gamma,Economia,4,1281.11,Matutino,2023-05-14
+193,Universidade Zeta,Enfermagem,5,1266.86,Matutino,2017-03-04
+194,Instituto Beta de Tecnologia,Economia,4,1049.52,Vespertino,2018-10-15
+195,Centro Universitário Gamma,Medicina,6,10485.8,Vespertino,2020-01-22
+196,Escola Superior Kappa,Administração,4,773.13,Matutino,2022-03-15
+197,Universidade Alpha,Economia,4,1103.31,Vespertino,2019-03-04
+198,Universidade Zeta,Arquitetura,5,1436.94,Vespertino,2016-12-23
+199,Universidade Zeta,Psicologia,5,800.9,Vespertino,2013-11-30
+200,Instituto Beta de Tecnologia,Odontologia,5,5354.1,Noturno,2021-05-19
+201,Universidade Zeta,Medicina,6,7488.66,Vespertino,2016-02-21
+202,Centro Universitário Theta,Economia,4,1246.09,Matutino,2023-07-11
+203,Faculdade Delta,Engenharia Civil,5,1867.35,Vespertino,2014-05-10
+204,Universidade Alpha,Ciência da Computação,4,3241.66,Matutino,2023-04-21
+205,Universidade Zeta,Engenharia Civil,5,2329.53,Vespertino,2019-12-09
+206,Universidade Zeta,Ciência da Computação,4,1585.97,Vespertino,2014-08-26
+207,Universidade Zeta,Ciência da Computação,4,2663.08,Vespertino,2021-11-19
+208,Faculdade Iota,Direito,5,1568.27,Matutino,2023-10-26
+209,Universidade Alpha,Direito,5,1093.36,Matutino,2015-01-10
+210,Centro Universitário Gamma,Enfermagem,5,1387.98,Matutino,2018-11-20
+211,Universidade Alpha,Psicologia,5,872.46,Vespertino,2014-05-13
+212,Universidade Alpha,Medicina,6,12719.24,Noturno,2023-07-15
+213,Instituto Beta de Tecnologia,Administração,4,775.57,Vespertino,2021-04-24
+214,Escola Superior Epsilon,Arquitetura,5,1995.2,Matutino,2021-07-03
+215,Faculdade Delta,Enfermagem,5,1210.28,Matutino,2017-11-08
+216,Faculdade Delta,Economia,4,866.66,Matutino,2015-04-11
+217,Escola Superior Kappa,Direito,5,1026.71,Vespertino,2014-04-18
+218,Centro Universitário Theta,Medicina,6,13337.1,Matutino,2023-07-21
+219,Centro Universitário Gamma,Direito,5,1430.59,Matutino,2020-05-09
+220,Escola Superior Kappa,Ciência da Computação,4,2021.63,Noturno,2017-07-04
+221,Instituto Eta de Ciências,Direito,5,1445.73,Vespertino,2021-06-13
+222,Centro Universitário Gamma,Administração,4,774.46,Vespertino,2021-05-05
+223,Instituto Beta de Tecnologia,Administração,4,776.98,Vespertino,2022-03-29
+224,Universidade Zeta,Arquitetura,5,1535.63,Matutino,2017-03-28
+225,Centro Universitário Gamma,Administração,4,572.99,Matutino,2016-09-05
+226,Faculdade Iota,Engenharia Civil,5,1754.47,Noturno,2014-12-13
+227,Escola Superior Kappa,Psicologia,5,777.49,Noturno,2013-10-19
+228,Universidade Zeta,Odontologia,5,5395.41,Noturno,2021-10-29
+229,Escola Superior Kappa,Medicina,6,6192.56,Matutino,2014-11-20
+230,Universidade Alpha,Economia,4,892.42,Vespertino,2015-12-16
+231,Escola Superior Epsilon,Medicina,6,6383.67,Vespertino,2014-02-19
+232,Instituto Beta de Tecnologia,Arquitetura,5,1616.73,Noturno,2018-03-13
+233,Faculdade Iota,Administração,4,633.05,Matutino,2017-01-10
+234,Universidade Alpha,Administração,4,551.86,Noturno,2015-08-31
+235,Instituto Beta de Tecnologia,Economia,4,887.62,Vespertino,2015-11-23
+236,Escola Superior Kappa,Engenharia Civil,5,2710.02,Matutino,2022-03-28
+237,Escola Superior Epsilon,Odontologia,5,4273.56,Matutino,2017-11-10
+238,Universidade Alpha,Psicologia,5,1138.94,Noturno,2021-09-28
+239,Universidade Zeta,Engenharia Civil,5,1673.2,Vespertino,2013-01-29
+240,Universidade Alpha,Enfermagem,5,905.47,Vespertino,2013-08-22
+241,Centro Universitário Gamma,Direito,5,1156.94,Vespertino,2017-12-17
+242,Escola Superior Kappa,Arquitetura,5,1575.55,Noturno,2016-09-12
+243,Faculdade Delta,Engenharia Civil,5,2904.64,Noturno,2023-03-27
+244,Escola Superior Epsilon,Direito,5,1657.07,Matutino,2023-06-18
+245,Faculdade Iota,Engenharia Civil,5,1828.51,Matutino,2015-12-09
+246,Escola Superior Kappa,Enfermagem,5,1277.89,Vespertino,2018-06-18
+247,Faculdade Delta,Administração,4,782.58,Vespertino,2022-07-22
+248,Universidade Alpha,Odontologia,5,4886.29,Vespertino,2019-12-26
+249,Centro Universitário Gamma,Enfermagem,5,1830.8,Vespertino,2022-10-23
+250,Centro Universitário Theta,Psicologia,5,764.7,Noturno,2013-02-11
+251,Faculdade Delta,Direito,5,1174.44,Vespertino,2016-03-11
+252,Faculdade Iota,Medicina,6,7886.73,Vespertino,2017-07-10
+253,Faculdade Iota,Odontologia,5,5733.64,Noturno,2021-04-01
+254,Instituto Beta de Tecnologia,Odontologia,5,6214.75,Noturno,2023-03-05
+255,Faculdade Delta,Medicina,6,8181.53,Noturno,2017-08-31
+256,Escola Superior Kappa,Ciência da Computação,4,3028.12,Noturno,2022-08-13
+257,Centro Universitário Theta,Administração,4,729.67,Vespertino,2020-01-09
+258,Centro Universitário Theta,Engenharia Civil,5,1775.05,Noturno,2013-08-06
+259,Escola Superior Epsilon,Arquitetura,5,1599.51,Matutino,2017-10-16
+260,Universidade Alpha,Administração,4,794.78,Vespertino,2022-07-18
+261,Instituto Eta de Ciências,Enfermagem,5,1442.99,Noturno,2019-07-19
+262,Centro Universitário Theta,Arquitetura,5,1474.83,Vespertino,2015-11-10
+263,Escola Superior Kappa,Odontologia,5,3071.02,Matutino,2013-02-27
+264,Faculdade Iota,Odontologia,5,3484.48,Noturno,2015-09-04
+265,Escola Superior Epsilon,Medicina,6,13577.91,Matutino,2023-09-14
+266,Escola Superior Kappa,Arquitetura,5,1239.07,Matutino,2013-11-19
+267,Universidade Zeta,Direito,5,1122.1,Noturno,2016-10-27
+268,Instituto Beta de Tecnologia,Arquitetura,5,1760.64,Vespertino,2019-04-10
+269,Instituto Eta de Ciências,Odontologia,5,5932.28,Vespertino,2022-03-31
+270,Faculdade Iota,Odontologia,5,4803.74,Matutino,2019-12-30
+271,Centro Universitário Gamma,Psicologia,5,1192.29,Matutino,2021-10-22
+272,Universidade Alpha,Direito,5,1488.9,Matutino,2022-02-11
+273,Centro Universitário Gamma,Medicina,6,6189.93,Matutino,2013-12-22
+274,Centro Universitário Gamma,Odontologia,5,5186.47,Vespertino,2020-07-24
+275,Escola Superior Epsilon,Arquitetura,5,1894.97,Noturno,2020-01-21
+276,Instituto Eta de Ciências,Psicologia,5,1267.85,Noturno,2023-11-29
+277,Instituto Beta de Tecnologia,Ciência da Computação,4,1843.73,Noturno,2016-06-05
+278,Escola Superior Epsilon,Economia,4,1126.83,Vespertino,2020-12-25
+279,Universidade Alpha,Ciência da Computação,4,2118.09,Noturno,2018-10-07
+280,Centro Universitário Theta,Arquitetura,5,2071.66,Noturno,2023-05-18
+281,Escola Superior Kappa,Arquitetura,5,1420.64,Matutino,2015-12-21
+282,Universidade Alpha,Odontologia,5,4259.52,Matutino,2018-05-26
+283,Instituto Eta de Ciências,Economia,4,884.64,Noturno,2016-01-31
+284,Instituto Beta de Tecnologia,Psicologia,5,1049.43,Vespertino,2019-02-16
+285,Centro Universitário Theta,Enfermagem,5,1790.87,Noturno,2022-06-21
+286,Faculdade Iota,Medicina,6,11574.78,Noturno,2021-01-23
+287,Instituto Beta de Tecnologia,Arquitetura,5,2019.13,Noturno,2022-05-15
+288,Escola Superior Epsilon,Economia,4,976.86,Noturno,2018-12-13
+289,Universidade Zeta,Administração,4,772.18,Vespertino,2022-10-08
+290,Escola Superior Epsilon,Ciência da Computação,4,1607.31,Vespertino,2014-10-21
+291,Centro Universitário Theta,Odontologia,5,6192.78,Vespertino,2023-06-12
+292,Universidade Zeta,Arquitetura,5,2054.79,Matutino,2023-02-20
+293,Faculdade Delta,Administração,4,659.43,Matutino,2018-01-12
+294,Universidade Alpha,Engenharia Civil,5,2021.57,Vespertino,2017-12-12
+295,Instituto Eta de Ciências,Direito,5,1211.02,Noturno,2016-03-10
+296,Universidade Alpha,Medicina,6,9752.63,Matutino,2019-02-04
+297,Instituto Beta de Tecnologia,Direito,5,1020.18,Vespertino,2013-05-22
+298,Centro Universitário Gamma,Ciência da Computação,4,1940.91,Noturno,2017-11-09
+299,Universidade Alpha,Administração,4,614.88,Vespertino,2018-03-26
+300,Centro Universitário Gamma,Ciência da Computação,4,2533.86,Matutino,2020-06-08
+301,Universidade Zeta,Economia,4,1292.39,Noturno,2022-07-06
+302,Faculdade Iota,Ciência da Computação,4,3287.51,Matutino,2023-11-20
+303,Instituto Beta de Tecnologia,Economia,4,1060.86,Noturno,2019-11-07
+304,Faculdade Iota,Psicologia,5,1247.71,Vespertino,2023-02-26
+305,Centro Universitário Theta,Medicina,6,9067.07,Vespertino,2018-10-21
+306,Escola Superior Epsilon,Direito,5,1390.17,Vespertino,2019-05-20
+307,Centro Universitário Gamma,Arquitetura,5,1947.63,Vespertino,2022-04-17
+308,Centro Universitário Theta,Engenharia Civil,5,1770.44,Vespertino,2014-02-12
+309,Universidade Zeta,Administração,4,570.51,Matutino,2015-09-17
+310,Universidade Zeta,Psicologia,5,1023.87,Vespertino,2018-10-24
+311,Faculdade Delta,Odontologia,5,5604.67,Vespertino,2021-08-19
+312,Centro Universitário Theta,Enfermagem,5,1368.37,Noturno,2018-05-28
+313,Faculdade Iota,Engenharia Civil,5,1998.65,Noturno,2016-05-24
+314,Instituto Eta de Ciências,Administração,4,656.36,Vespertino,2019-05-04
+315,Centro Universitário Theta,Enfermagem,5,1204.34,Matutino,2017-07-29
+316,Universidade Zeta,Ciência da Computação,4,2045.61,Vespertino,2017-07-16
+317,Faculdade Delta,Arquitetura,5,1673.38,Matutino,2019-10-03
+318,Universidade Zeta,Economia,4,1229.83,Vespertino,2021-05-03
+319,Faculdade Iota,Medicina,6,11454.64,Vespertino,2022-09-30
+320,Universidade Zeta,Enfermagem,5,1919.73,Noturno,2023-03-02
+321,Universidade Zeta,Medicina,6,5786.04,Matutino,2013-08-08
+322,Escola Superior Kappa,Psicologia,5,929.62,Vespertino,2017-10-31
+323,Escola Superior Kappa,Engenharia Civil,5,1765.07,Matutino,2013-02-04
+324,Centro Universitário Gamma,Odontologia,5,4427.93,Vespertino,2018-08-20
+325,Faculdade Iota,Economia,4,1111.9,Vespertino,2019-06-22
+326,Faculdade Iota,Direito,5,1467.06,Matutino,2020-12-28
+327,Escola Superior Kappa,Odontologia,5,6260.86,Matutino,2022-01-21
+328,Escola Superior Epsilon,Medicina,6,11583.55,Noturno,2022-04-04
+329,Centro Universitário Theta,Direito,5,1516.22,Matutino,2021-01-08
+330,Escola Superior Kappa,Ciência da Computação,4,1571.67,Noturno,2014-05-31
+331,Universidade Alpha,Ciência da Computação,4,2586.58,Vespertino,2020-10-19
+332,Centro Universitário Theta,Psicologia,5,1197.71,Matutino,2022-12-27
+333,Centro Universitário Theta,Economia,4,997.88,Vespertino,2018-09-23
+334,Centro Universitário Gamma,Administração,4,648.4,Matutino,2019-08-01
+335,Universidade Alpha,Psicologia,5,1251.54,Vespertino,2023-10-26
+336,Faculdade Iota,Engenharia Civil,5,2704.09,Matutino,2022-11-22
+337,Centro Universitário Theta,Medicina,6,7901.24,Matutino,2017-04-19
+338,Faculdade Delta,Direito,5,1357.58,Matutino,2019-07-31
+339,Instituto Beta de Tecnologia,Ciência da Computação,4,1633.42,Vespertino,2014-04-15
+340,Instituto Beta de Tecnologia,Economia,4,1272.0,Vespertino,2022-06-06
+341,Escola Superior Epsilon,Odontologia,5,3449.78,Noturno,2015-12-30
+342,Faculdade Delta,Psicologia,5,777.84,Matutino,2013-01-04
+343,Universidade Zeta,Odontologia,5,5709.39,Matutino,2022-03-06
+344,Universidade Zeta,Enfermagem,5,959.46,Matutino,2014-12-14
+345,Centro Universitário Theta,Ciência da Computação,4,2100.47,Matutino,2017-01-20
+346,Faculdade Iota,Arquitetura,5,1942.9,Vespertino,2021-05-17
+347,Faculdade Delta,Engenharia Civil,5,2188.92,Noturno,2019-04-09
+348,Escola Superior Kappa,Direito,5,1060.81,Matutino,2015-03-24
+349,Faculdade Iota,Ciência da Computação,4,1936.32,Noturno,2016-01-25
+350,Centro Universitário Theta,Engenharia Civil,5,1919.9,Noturno,2016-10-15
+351,Universidade Zeta,Engenharia Civil,5,2148.88,Vespertino,2018-11-17
+352,Faculdade Iota,Direito,5,995.15,Noturno,2013-09-11
+353,Instituto Beta de Tecnologia,Enfermagem,5,1163.83,Vespertino,2017-09-21
+354,Instituto Beta de Tecnologia,Engenharia Civil,5,1662.25,Vespertino,2013-11-13
+355,Universidade Alpha,Arquitetura,5,1480.91,Vespertino,2016-03-10
+356,Escola Superior Epsilon,Enfermagem,5,1145.59,Noturno,2016-08-28
+357,Universidade Zeta,Medicina,6,9962.0,Noturno,2020-07-24
+358,Centro Universitário Theta,Psicologia,5,914.07,Noturno,2015-12-02
+359,Faculdade Iota,Engenharia Civil,5,1630.25,Noturno,2013-11-08
+360,Faculdade Iota,Medicina,6,6717.62,Vespertino,2014-11-11
+361,Universidade Zeta,Psicologia,5,1148.58,Matutino,2021-08-29
+362,Escola Superior Kappa,Medicina,6,7806.4,Matutino,2017-05-18
+363,Faculdade Delta,Psicologia,5,987.1,Noturno,2017-01-18
+364,Centro Universitário Theta,Medicina,6,7181.62,Noturno,2015-07-19
+365,Instituto Beta de Tecnologia,Enfermagem,5,897.67,Noturno,2013-06-25
+366,Faculdade Iota,Psicologia,5,1077.97,Vespertino,2020-07-22
+367,Centro Universitário Theta,Economia,4,1172.24,Noturno,2020-11-28
+368,Faculdade Delta,Psicologia,5,1228.52,Noturno,2021-02-08
+369,Instituto Eta de Ciências,Odontologia,5,5204.79,Matutino,2020-03-05
+370,Centro Universitário Theta,Odontologia,5,3743.36,Noturno,2016-08-24
+371,Faculdade Iota,Arquitetura,5,1937.18,Noturno,2022-04-01
+372,Escola Superior Epsilon,Ciência da Computação,4,2424.11,Vespertino,2019-05-11
+373,Escola Superior Epsilon,Ciência da Computação,4,2831.49,Noturno,2021-12-17
+374,Centro Universitário Theta,Medicina,6,9777.85,Noturno,2019-10-29
+375,Instituto Beta de Tecnologia,Medicina,6,10790.24,Matutino,2020-12-05
+376,Centro Universitário Theta,Psicologia,5,925.24,Vespertino,2016-06-19
+377,Escola Superior Kappa,Administração,4,592.1,Noturno,2017-10-27
+378,Faculdade Delta,Ciência da Computação,4,1438.78,Vespertino,2013-03-10
+379,Escola Superior Kappa,Medicina,6,6651.67,Noturno,2015-09-10
+380,Faculdade Iota,Direito,5,1047.48,Vespertino,2014-10-25
+381,Faculdade Delta,Administração,4,567.63,Matutino,2015-07-28
+382,Centro Universitário Gamma,Psicologia,5,937.4,Noturno,2017-09-13
+383,Escola Superior Kappa,Engenharia Civil,5,2437.25,Vespertino,2020-04-07
+384,Instituto Eta de Ciências,Odontologia,5,5713.11,Noturno,2021-07-04
+385,Centro Universitário Theta,Arquitetura,5,1817.54,Vespertino,2020-05-22
+386,Faculdade Iota,Economia,4,845.53,Matutino,2014-11-28
+387,Escola Superior Epsilon,Engenharia Civil,5,2882.77,Noturno,2023-09-05
+388,Universidade Zeta,Engenharia Civil,5,1783.02,Matutino,2014-03-17
+389,Faculdade Iota,Administração,4,773.74,Matutino,2021-12-29
+390,Faculdade Iota,Psicologia,5,1004.0,Noturno,2018-09-13
+391,Instituto Beta de Tecnologia,Medicina,6,7299.75,Vespertino,2015-03-15
+392,Faculdade Delta,Ciência da Computação,4,2142.01,Matutino,2018-05-08
+393,Universidade Alpha,Ciência da Computação,4,2838.22,Noturno,2021-10-12
+394,Universidade Alpha,Psicologia,5,938.68,Noturno,2017-10-09
+395,Centro Universitário Theta,Psicologia,5,973.49,Noturno,2017-06-28
+396,Instituto Eta de Ciências,Enfermagem,5,1735.07,Matutino,2022-07-04
+397,Instituto Beta de Tecnologia,Arquitetura,5,2199.57,Noturno,2023-01-23
+398,Universidade Alpha,Engenharia Civil,5,2553.61,Vespertino,2021-06-15
+399,Universidade Zeta,Medicina,6,8165.07,Matutino,2017-12-02
+400,Universidade Alpha,Psicologia,5,1259.27,Matutino,2022-01-26
+401,Instituto Beta de Tecnologia,Ciência da Computação,4,3015.81,Matutino,2022-05-11
+402,Instituto Eta de Ciências,Direito,5,1049.25,Vespertino,2013-04-10
+403,Faculdade Delta,Enfermagem,5,1512.63,Matutino,2020-05-05
+404,Universidade Zeta,Psicologia,5,826.11,Matutino,2014-05-03
+405,Instituto Beta de Tecnologia,Economia,4,1101.49,Noturno,2020-06-24
+406,Centro Universitário Theta,Enfermagem,5,886.94,Matutino,2013-08-19
+407,Universidade Zeta,Direito,5,1615.84,Vespertino,2022-05-04
+408,Universidade Alpha,Odontologia,5,5158.38,Vespertino,2020-07-10
+409,Centro Universitário Gamma,Direito,5,1173.82,Vespertino,2016-07-10
+410,Faculdade Delta,Odontologia,5,5979.64,Vespertino,2022-08-26
+411,Instituto Beta de Tecnologia,Psicologia,5,1281.31,Vespertino,2022-02-21
+412,Escola Superior Kappa,Economia,4,1143.07,Vespertino,2020-11-26
+413,Escola Superior Kappa,Direito,5,1599.3,Vespertino,2023-05-09
+414,Centro Universitário Gamma,Enfermagem,5,928.72,Noturno,2013-07-18
+415,Universidade Zeta,Enfermagem,5,1146.68,Noturno,2016-01-27
+416,Centro Universitário Gamma,Odontologia,5,3855.6,Matutino,2016-12-11
+417,Instituto Eta de Ciências,Ciência da Computação,4,1697.24,Vespertino,2015-12-28
+418,Universidade Alpha,Enfermagem,5,1747.0,Matutino,2021-03-26
+419,Escola Superior Epsilon,Odontologia,5,3202.69,Matutino,2014-09-14
+420,Faculdade Iota,Economia,4,1276.39,Matutino,2022-01-01
+421,Faculdade Iota,Economia,4,1048.91,Vespertino,2018-10-13
+422,Faculdade Iota,Administração,4,779.58,Matutino,2023-10-21
+423,Faculdade Iota,Odontologia,5,4362.07,Matutino,2018-10-24
+424,Instituto Eta de Ciências,Direito,5,1158.62,Noturno,2017-12-20
+425,Centro Universitário Gamma,Arquitetura,5,1809.06,Matutino,2020-02-06
+426,Centro Universitário Gamma,Administração,4,803.26,Matutino,2022-04-07
+427,Centro Universitário Gamma,Odontologia,5,3332.36,Matutino,2015-06-24
+428,Escola Superior Epsilon,Enfermagem,5,1083.89,Matutino,2015-05-25
+429,Centro Universitário Theta,Engenharia Civil,5,1839.99,Matutino,2015-04-14
+430,Faculdade Iota,Psicologia,5,764.95,Vespertino,2013-07-02
+431,Universidade Zeta,Direito,5,1046.07,Vespertino,2013-10-04
+432,Escola Superior Kappa,Economia,4,993.63,Matutino,2018-06-02
+433,Instituto Eta de Ciências,Ciência da Computação,4,2471.34,Noturno,2019-10-30
+434,Universidade Zeta,Administração,4,522.73,Vespertino,2014-12-26
+435,Instituto Beta de Tecnologia,Administração,4,646.48,Noturno,2018-01-12
+436,Escola Superior Epsilon,Economia,4,948.44,Vespertino,2017-02-26
+437,Centro Universitário Gamma,Ciência da Computação,4,1825.52,Noturno,2015-02-22
+438,Universidade Zeta,Psicologia,5,1163.85,Matutino,2020-06-23
+439,Universidade Alpha,Economia,4,981.26,Noturno,2018-07-02
+440,Escola Superior Kappa,Psicologia,5,1241.45,Noturno,2022-11-10
+441,Escola Superior Kappa,Ciência da Computação,4,2491.32,Vespertino,2019-02-26
+442,Faculdade Delta,Ciência da Computação,4,2517.73,Noturno,2020-11-06
+443,Universidade Alpha,Medicina,6,11930.14,Noturno,2022-10-27
+444,Faculdade Delta,Economia,4,813.64,Vespertino,2013-12-09
+445,Faculdade Iota,Enfermagem,5,1088.54,Vespertino,2015-09-27
+446,Centro Universitário Theta,Economia,4,1151.54,Noturno,2021-03-21
+447,Faculdade Iota,Medicina,6,10762.22,Matutino,2020-02-15
+448,Instituto Beta de Tecnologia,Psicologia,5,1166.85,Noturno,2020-10-29
+449,Centro Universitário Gamma,Arquitetura,5,1417.44,Matutino,2014-03-11
+450,Escola Superior Kappa,Ciência da Computação,4,1506.1,Vespertino,2013-12-31
+451,Centro Universitário Theta,Ciência da Computação,4,1815.41,Matutino,2016-07-26
+452,Instituto Eta de Ciências,Ciência da Computação,4,2719.65,Matutino,2021-07-29
+453,Instituto Eta de Ciências,Enfermagem,5,1097.4,Vespertino,2015-04-01
+454,Universidade Zeta,Ciência da Computação,4,1449.39,Matutino,2013-08-27
+455,Instituto Eta de Ciências,Arquitetura,5,1629.7,Matutino,2017-11-25
+456,Instituto Eta de Ciências,Odontologia,5,3211.55,Matutino,2014-11-16
+457,Centro Universitário Gamma,Economia,4,1142.31,Matutino,2021-07-02
+458,Escola Superior Epsilon,Ciência da Computação,4,1981.57,Vespertino,2016-03-17
+459,Faculdade Delta,Economia,4,922.85,Matutino,2016-11-02
+460,Instituto Eta de Ciências,Enfermagem,5,1130.9,Noturno,2016-08-19
+461,Escola Superior Epsilon,Economia,4,918.36,Matutino,2015-07-14
+462,Instituto Beta de Tecnologia,Arquitetura,5,1862.9,Matutino,2021-02-18
+463,Centro Universitário Theta,Arquitetura,5,1633.64,Noturno,2017-08-22
+464,Escola Superior Kappa,Psicologia,5,1067.14,Matutino,2018-10-22
+465,Faculdade Delta,Arquitetura,5,1523.33,Noturno,2017-12-15
+466,Universidade Zeta,Ciência da Computação,4,2510.04,Matutino,2020-01-29
+467,Escola Superior Epsilon,Psicologia,5,772.72,Noturno,2013-06-25
+468,Universidade Alpha,Administração,4,820.31,Vespertino,2023-05-29
+469,Centro Universitário Theta,Ciência da Computação,4,2302.46,Matutino,2018-02-26
+470,Universidade Zeta,Ciência da Computação,4,2496.31,Noturno,2019-05-18
+471,Faculdade Delta,Ciência da Computação,4,2270.33,Vespertino,2019-11-14
+472,Universidade Alpha,Arquitetura,5,1405.7,Matutino,2014-07-09
+473,Centro Universitário Gamma,Direito,5,1338.32,Vespertino,2018-01-02
+474,Instituto Beta de Tecnologia,Arquitetura,5,1455.88,Vespertino,2016-07-21
+475,Faculdade Delta,Enfermagem,5,1888.47,Noturno,2022-03-19
+476,Instituto Beta de Tecnologia,Medicina,6,11492.82,Vespertino,2021-12-22
+477,Centro Universitário Theta,Administração,4,734.27,Matutino,2021-11-12
+478,Faculdade Delta,Arquitetura,5,1383.26,Matutino,2014-07-26
+479,Faculdade Iota,Economia,4,950.83,Vespertino,2016-10-24
+480,Escola Superior Kappa,Enfermagem,5,2021.0,Vespertino,2023-05-10
+481,Universidade Alpha,Medicina,6,8634.83,Noturno,2018-08-01
+482,Universidade Alpha,Economia,4,797.8,Matutino,2013-11-23
+483,Escola Superior Kappa,Psicologia,5,935.43,Vespertino,2016-02-08
+484,Escola Superior Kappa,Medicina,6,10819.69,Noturno,2021-10-07
+485,Escola Superior Epsilon,Economia,4,882.63,Vespertino,2016-06-04
+486,Escola Superior Epsilon,Psicologia,5,1218.52,Matutino,2022-03-20
+487,Centro Universitário Gamma,Administração,4,804.14,Vespertino,2023-02-06
+488,Universidade Zeta,Psicologia,5,853.88,Noturno,2015-10-21
+489,Faculdade Iota,Odontologia,5,6201.65,Vespertino,2022-11-03
+490,Instituto Eta de Ciências,Economia,4,995.68,Vespertino,2017-11-24
+491,Instituto Eta de Ciências,Medicina,6,7635.33,Vespertino,2016-10-25
+492,Faculdade Delta,Administração,4,483.27,Vespertino,2013-12-17
+493,Escola Superior Epsilon,Psicologia,5,819.9,Matutino,2014-01-21
+494,Instituto Beta de Tecnologia,Odontologia,5,4445.8,Noturno,2018-06-22
+495,Centro Universitário Theta,Enfermagem,5,1178.32,Matutino,2016-05-27
+496,Escola Superior Epsilon,Medicina,6,7205.06,Noturno,2015-05-03
+497,Escola Superior Kappa,Enfermagem,5,1757.85,Noturno,2022-04-08
+498,Universidade Zeta,Economia,4,961.48,Matutino,2016-12-21
+499,Universidade Alpha,Administração,4,510.24,Vespertino,2014-07-15
+500,Instituto Eta de Ciências,Odontologia,5,4205.91,Noturno,2018-10-01
+501,Escola Superior Kappa,Enfermagem,5,945.03,Matutino,2014-12-16
+502,Centro Universitário Gamma,Odontologia,5,5362.03,Noturno,2021-05-15
+503,Universidade Zeta,Enfermagem,5,1514.75,Noturno,2020-08-25
+504,Escola Superior Kappa,Medicina,6,7473.19,Noturno,2016-06-06
+505,Faculdade Iota,Odontologia,5,2985.55,Vespertino,2013-09-23
+506,Escola Superior Epsilon,Medicina,6,7598.49,Matutino,2016-10-31
+507,Centro Universitário Theta,Psicologia,5,1075.95,Matutino,2020-06-11
+508,Escola Superior Epsilon,Direito,5,1019.13,Noturno,2014-01-15
+509,Faculdade Delta,Medicina,6,6084.9,Noturno,2013-05-09
+510,Escola Superior Kappa,Arquitetura,5,2046.47,Matutino,2022-12-18
+511,Instituto Beta de Tecnologia,Medicina,6,7242.98,Vespertino,2016-11-24
+512,Faculdade Delta,Arquitetura,5,1248.92,Noturno,2013-10-15
+513,Centro Universitário Gamma,Direito,5,1707.22,Noturno,2023-07-11
+514,Instituto Beta de Tecnologia,Administração,4,635.91,Noturno,2017-12-20
+515,Faculdade Delta,Psicologia,5,1240.19,Noturno,2022-04-02
+516,Instituto Eta de Ciências,Engenharia Civil,5,2748.96,Matutino,2022-07-18
+517,Escola Superior Epsilon,Economia,4,811.1,Noturno,2014-03-27
+518,Centro Universitário Gamma,Engenharia Civil,5,2536.49,Noturno,2022-10-05
+519,Instituto Eta de Ciências,Medicina,6,10582.83,Noturno,2021-07-27
+520,Faculdade Delta,Administração,4,723.17,Vespertino,2020-03-24
+521,Instituto Beta de Tecnologia,Arquitetura,5,1371.29,Matutino,2015-12-23
+522,Universidade Alpha,Medicina,6,7355.68,Noturno,2016-11-27
+523,Instituto Eta de Ciências,Ciência da Computação,4,1818.76,Noturno,2016-11-18
+524,Escola Superior Epsilon,Odontologia,5,4926.28,Matutino,2019-09-24
+525,Faculdade Delta,Economia,4,983.62,Vespertino,2018-09-13
+526,Instituto Eta de Ciências,Engenharia Civil,5,1850.53,Vespertino,2015-04-29
+527,Universidade Alpha,Arquitetura,5,2021.63,Matutino,2023-03-02
+528,Universidade Alpha,Economia,4,958.29,Noturno,2016-02-07
+529,Faculdade Delta,Odontologia,5,5016.71,Matutino,2020-10-01
+530,Escola Superior Kappa,Ciência da Computação,4,1894.56,Noturno,2016-04-29
+531,Faculdade Delta,Direito,5,1217.46,Vespertino,2017-10-04
+532,Escola Superior Epsilon,Ciência da Computação,4,1956.45,Vespertino,2017-01-30
+533,Escola Superior Kappa,Direito,5,1438.62,Matutino,2021-03-17
+534,Escola Superior Kappa,Direito,5,1177.46,Vespertino,2016-06-20
+535,Faculdade Delta,Ciência da Computação,4,3354.62,Noturno,2023-03-05
+536,Universidade Zeta,Engenharia Civil,5,2710.25,Noturno,2022-07-21
+537,Universidade Zeta,Ciência da Computação,4,3281.32,Noturno,2023-05-10
+538,Centro Universitário Theta,Odontologia,5,4601.59,Matutino,2019-06-16
+539,Centro Universitário Gamma,Psicologia,5,1073.52,Matutino,2020-01-30
+540,Universidade Alpha,Direito,5,1289.43,Matutino,2018-10-03
+541,Universidade Zeta,Odontologia,5,6312.65,Matutino,2023-12-02
+542,Faculdade Delta,Administração,4,577.39,Vespertino,2017-08-16
+543,Universidade Zeta,Enfermagem,5,1693.43,Matutino,2021-11-16
+544,Centro Universitário Gamma,Engenharia Civil,5,1836.49,Matutino,2015-12-22
+545,Instituto Eta de Ciências,Engenharia Civil,5,2774.44,Noturno,2023-12-30
+546,Escola Superior Kappa,Psicologia,5,1301.77,Vespertino,2023-12-02
+547,Centro Universitário Gamma,Administração,4,600.42,Vespertino,2017-08-01
+548,Faculdade Iota,Economia,4,860.23,Vespertino,2015-08-21
+549,Centro Universitário Theta,Enfermagem,5,1458.22,Matutino,2019-12-03
+550,Escola Superior Epsilon,Administração,4,744.13,Noturno,2021-01-06
+551,Escola Superior Kappa,Administração,4,545.55,Noturno,2014-09-11
+552,Instituto Beta de Tecnologia,Psicologia,5,1151.5,Noturno,2021-07-31
+553,Instituto Eta de Ciências,Medicina,6,8678.39,Noturno,2018-09-02
+554,Faculdade Iota,Odontologia,5,3958.27,Matutino,2017-08-08
+555,Instituto Beta de Tecnologia,Administração,4,701.22,Matutino,2019-03-18
+556,Centro Universitário Gamma,Medicina,6,7698.74,Vespertino,2016-11-13
+557,Centro Universitário Theta,Administração,4,641.84,Vespertino,2019-12-08
+558,Universidade Zeta,Medicina,6,7047.09,Noturno,2015-10-02
+559,Escola Superior Epsilon,Engenharia Civil,5,2584.56,Noturno,2022-12-23
+560,Centro Universitário Gamma,Economia,4,1277.55,Noturno,2022-06-06
+561,Universidade Zeta,Enfermagem,5,1406.71,Vespertino,2019-06-29
+562,Instituto Eta de Ciências,Enfermagem,5,929.47,Vespertino,2013-04-19
+563,Instituto Beta de Tecnologia,Ciência da Computação,4,3370.98,Matutino,2023-04-29
+564,Universidade Alpha,Odontologia,5,3557.09,Matutino,2015-07-01
+565,Instituto Eta de Ciências,Economia,4,1250.17,Noturno,2023-03-25
+566,Faculdade Delta,Psicologia,5,802.09,Noturno,2014-04-28
+567,Instituto Beta de Tecnologia,Administração,4,550.13,Matutino,2014-05-07
+568,Centro Universitário Gamma,Direito,5,1546.2,Vespertino,2021-05-10
+569,Centro Universitário Theta,Medicina,6,6317.22,Noturno,2014-12-28
+570,Universidade Alpha,Enfermagem,5,1551.74,Vespertino,2020-07-24
+571,Faculdade Delta,Enfermagem,5,1868.75,Vespertino,2023-04-30
+572,Instituto Eta de Ciências,Ciência da Computação,4,3274.27,Matutino,2023-10-04
+573,Instituto Eta de Ciências,Arquitetura,5,1288.0,Vespertino,2013-05-04
+574,Instituto Beta de Tecnologia,Economia,4,1182.78,Matutino,2021-11-26
+575,Universidade Alpha,Enfermagem,5,1843.06,Noturno,2022-03-21
+576,Escola Superior Kappa,Odontologia,5,3963.14,Noturno,2016-12-27
+577,Faculdade Iota,Enfermagem,5,1697.12,Vespertino,2021-12-18
+578,Instituto Eta de Ciências,Ciência da Computação,4,2075.55,Vespertino,2017-10-13
+579,Instituto Eta de Ciências,Engenharia Civil,5,2320.24,Noturno,2019-05-26
+580,Instituto Eta de Ciências,Psicologia,5,1079.59,Matutino,2019-06-15
+581,Centro Universitário Gamma,Engenharia Civil,5,2777.94,Matutino,2023-03-18
+582,Faculdade Delta,Arquitetura,5,2146.96,Noturno,2023-04-01
+583,Universidade Alpha,Psicologia,5,1086.07,Vespertino,2020-04-17
+584,Centro Universitário Gamma,Administração,4,564.56,Matutino,2015-10-05
+585,Centro Universitário Gamma,Arquitetura,5,1354.5,Noturno,2013-04-21
+586,Centro Universitário Theta,Ciência da Computação,4,2693.55,Matutino,2021-04-01
+587,Escola Superior Kappa,Odontologia,5,3234.86,Noturno,2014-09-05
+588,Universidade Alpha,Engenharia Civil,5,1772.78,Vespertino,2014-04-18
+589,Escola Superior Epsilon,Enfermagem,5,1855.52,Matutino,2023-07-17
+590,Instituto Eta de Ciências,Economia,4,885.69,Matutino,2015-01-05
+591,Escola Superior Epsilon,Engenharia Civil,5,2235.17,Matutino,2019-11-19
+592,Instituto Eta de Ciências,Direito,5,1063.92,Vespertino,2014-01-18
+593,Universidade Zeta,Odontologia,5,4565.05,Matutino,2019-10-04
+594,Faculdade Delta,Medicina,6,12015.83,Vespertino,2022-06-15
+595,Centro Universitário Theta,Engenharia Civil,5,2394.43,Matutino,2021-02-03
+596,Instituto Eta de Ciências,Economia,4,1225.4,Noturno,2022-08-09
+597,Faculdade Iota,Administração,4,538.49,Vespertino,2015-06-30
+598,Universidade Zeta,Enfermagem,5,1066.16,Noturno,2015-09-12
+599,Universidade Alpha,Engenharia Civil,5,1799.01,Matutino,2015-09-27
+600,Faculdade Iota,Enfermagem,5,1822.36,Vespertino,2022-10-06
+601,Centro Universitário Theta,Enfermagem,5,1587.14,Noturno,2020-02-29
+602,Centro Universitário Gamma,Psicologia,5,1116.12,Vespertino,2019-12-25
+603,Centro Universitário Gamma,Medicina,6,8409.89,Vespertino,2018-04-06
+604,Centro Universitário Gamma,Medicina,6,9489.89,Matutino,2019-08-18
+605,Escola Superior Epsilon,Ciência da Computação,4,2503.05,Noturno,2020-05-14
+606,Instituto Beta de Tecnologia,Arquitetura,5,1423.45,Matutino,2014-10-22
+607,Faculdade Delta,Enfermagem,5,1297.68,Matutino,2018-11-11
+608,Escola Superior Epsilon,Administração,4,772.09,Noturno,2022-09-15
+609,Faculdade Delta,Psicologia,5,1333.9,Noturno,2023-08-26
+610,Centro Universitário Theta,Economia,4,1008.58,Vespertino,2017-02-06
+611,Instituto Beta de Tecnologia,Ciência da Computação,4,1995.69,Noturno,2017-08-14
+612,Centro Universitário Theta,Odontologia,5,3101.7,Noturno,2014-05-15
+613,Faculdade Iota,Direito,5,1139.8,Noturno,2015-03-03
+614,Escola Superior Epsilon,Odontologia,5,4316.17,Matutino,2018-10-09
+615,Universidade Zeta,Arquitetura,5,1687.32,Noturno,2019-05-10
+616,Escola Superior Kappa,Economia,4,838.51,Matutino,2013-12-31
+617,Centro Universitário Gamma,Psicologia,5,927.95,Vespertino,2016-10-21
+618,Universidade Alpha,Arquitetura,5,1460.32,Noturno,2015-01-01
+619,Faculdade Delta,Ciência da Computação,4,2906.58,Vespertino,2022-04-11
+620,Escola Superior Epsilon,Engenharia Civil,5,2020.28,Vespertino,2016-04-04
+621,Centro Universitário Theta,Direito,5,1176.82,Vespertino,2016-12-12
+622,Escola Superior Kappa,Odontologia,5,3598.88,Matutino,2015-09-14
+623,Instituto Beta de Tecnologia,Administração,4,594.73,Vespertino,2016-11-25
+624,Escola Superior Epsilon,Odontologia,5,5577.81,Vespertino,2021-07-26
+625,Centro Universitário Theta,Economia,4,801.79,Noturno,2013-11-21
+626,Instituto Eta de Ciências,Medicina,6,7984.16,Vespertino,2017-09-23
+627,Universidade Alpha,Arquitetura,5,1312.41,Noturno,2013-01-17
+628,Escola Superior Epsilon,Economia,4,1239.38,Matutino,2021-05-30
+629,Faculdade Delta,Enfermagem,5,1397.56,Matutino,2019-09-06
+630,Instituto Beta de Tecnologia,Odontologia,5,3179.92,Matutino,2014-12-15
+631,Universidade Alpha,Medicina,6,7140.09,Vespertino,2015-12-06
+632,Universidade Zeta,Arquitetura,5,1858.93,Matutino,2021-07-21
+633,Centro Universitário Gamma,Enfermagem,5,1612.4,Matutino,2020-03-27
+634,Escola Superior Epsilon,Ciência da Computação,4,3328.62,Vespertino,2023-03-06
+635,Instituto Beta de Tecnologia,Medicina,6,12414.9,Matutino,2022-06-07
+636,Universidade Alpha,Administração,4,709.78,Vespertino,2021-10-24
+637,Universidade Alpha,Direito,5,1656.38,Matutino,2023-05-06
+638,Universidade Zeta,Ciência da Computação,4,1779.95,Noturno,2015-10-18
+639,Centro Universitário Gamma,Engenharia Civil,5,2143.85,Noturno,2017-09-17
+640,Universidade Zeta,Psicologia,5,1241.45,Vespertino,2022-08-02
+641,Universidade Zeta,Ciência da Computação,4,3039.94,Matutino,2022-07-10
+642,Escola Superior Epsilon,Economia,4,1248.64,Matutino,2022-02-05
+643,Universidade Zeta,Direito,5,1282.49,Vespertino,2019-07-16
+644,Universidade Zeta,Economia,4,1276.1,Noturno,2023-05-24
+645,Faculdade Delta,Medicina,6,12733.16,Matutino,2023-06-25
+646,Escola Superior Epsilon,Psicologia,5,1050.43,Matutino,2019-05-10
+647,Instituto Beta de Tecnologia,Direito,5,1482.05,Vespertino,2022-08-18
+648,Centro Universitário Theta,Administração,4,787.79,Noturno,2022-10-20
+649,Centro Universitário Gamma,Enfermagem,5,1428.24,Matutino,2019-05-17
+650,Faculdade Iota,Enfermagem,5,1126.79,Matutino,2016-10-27
+651,Instituto Beta de Tecnologia,Ciência da Computação,4,2899.05,Vespertino,2021-07-12
+652,Escola Superior Kappa,Direito,5,1615.85,Vespertino,2022-08-07
+653,Escola Superior Epsilon,Direito,5,1545.69,Noturno,2022-10-10
+654,Centro Universitário Theta,Ciência da Computação,4,3330.04,Noturno,2023-05-20
+655,Escola Superior Kappa,Economia,4,1078.96,Matutino,2019-05-15
+656,Instituto Eta de Ciências,Medicina,6,12828.52,Noturno,2023-01-02
+657,Centro Universitário Gamma,Arquitetura,5,1989.14,Vespertino,2021-05-28
+658,Faculdade Iota,Ciência da Computação,4,2002.48,Noturno,2017-10-23
+659,Escola Superior Kappa,Ciência da Computação,4,1731.59,Noturno,2015-12-15
+660,Faculdade Delta,Enfermagem,5,1028.24,Noturno,2015-06-07
+661,Centro Universitário Gamma,Engenharia Civil,5,2533.38,Matutino,2021-01-20
+662,Universidade Alpha,Odontologia,5,2893.11,Matutino,2013-12-08
+663,Escola Superior Epsilon,Arquitetura,5,1489.11,Noturno,2015-04-11
+664,Instituto Eta de Ciências,Enfermagem,5,1214.22,Matutino,2017-01-23
+665,Faculdade Delta,Odontologia,5,3864.16,Matutino,2016-02-20
+666,Escola Superior Epsilon,Administração,4,736.43,Matutino,2020-06-04
+667,Centro Universitário Gamma,Odontologia,5,5787.51,Noturno,2022-08-24
+668,Escola Superior Kappa,Direito,5,1420.12,Vespertino,2020-08-23
+669,Instituto Beta de Tecnologia,Direito,5,1523.7,Vespertino,2021-05-15
+670,Centro Universitário Gamma,Odontologia,5,4111.45,Noturno,2017-07-13
+671,Escola Superior Epsilon,Enfermagem,5,1405.86,Vespertino,2019-07-30
+672,Faculdade Delta,Engenharia Civil,5,1786.77,Matutino,2015-03-14
+673,Faculdade Iota,Enfermagem,5,1408.99,Noturno,2019-11-29
+674,Centro Universitário Theta,Administração,4,666.33,Vespertino,2018-10-19
+675,Instituto Beta de Tecnologia,Engenharia Civil,5,2468.53,Matutino,2020-12-07
+676,Faculdade Iota,Economia,4,1326.1,Matutino,2023-05-10
+677,Faculdade Iota,Psicologia,5,1046.94,Vespertino,2019-09-08
+678,Universidade Alpha,Enfermagem,5,1949.37,Vespertino,2023-11-14
+679,Escola Superior Epsilon,Direito,5,1247.47,Matutino,2018-04-20
+680,Escola Superior Epsilon,Psicologia,5,1035.22,Noturno,2018-09-15
+681,Escola Superior Kappa,Administração,4,603.91,Vespertino,2016-05-04
+682,Instituto Eta de Ciências,Engenharia Civil,5,2008.36,Vespertino,2016-02-13
+683,Instituto Eta de Ciências,Administração,4,802.63,Vespertino,2022-08-23
+684,Escola Superior Kappa,Arquitetura,5,1552.36,Noturno,2017-03-14
+685,Escola Superior Epsilon,Engenharia Civil,5,1939.96,Noturno,2015-11-10
+686,Instituto Eta de Ciências,Odontologia,5,3699.21,Vespertino,2016-10-05
+687,Universidade Zeta,Economia,4,1087.05,Noturno,2019-04-22
+688,Escola Superior Epsilon,Psicologia,5,1129.64,Vespertino,2021-06-03
+689,Instituto Beta de Tecnologia,Arquitetura,5,1767.74,Noturno,2020-03-03
+690,Centro Universitário Gamma,Economia,4,945.39,Noturno,2017-08-05
+691,Instituto Beta de Tecnologia,Ciência da Computação,4,1804.43,Vespertino,2015-02-26
+692,Escola Superior Epsilon,Arquitetura,5,1624.78,Vespertino,2018-09-17
+693,Centro Universitário Theta,Psicologia,5,1039.39,Vespertino,2018-01-01
+694,Centro Universitário Gamma,Arquitetura,5,1821.83,Matutino,2019-09-04
+695,Instituto Beta de Tecnologia,Psicologia,5,779.68,Noturno,2013-05-07
+696,Universidade Alpha,Odontologia,5,6217.14,Noturno,2022-08-12
+697,Instituto Eta de Ciências,Psicologia,5,934.28,Matutino,2017-02-18
+698,Faculdade Iota,Ciência da Computação,4,1483.49,Vespertino,2013-11-28
+699,Escola Superior Epsilon,Psicologia,5,1154.32,Noturno,2020-07-23
+700,Escola Superior Kappa,Arquitetura,5,1725.54,Vespertino,2019-02-08
+701,Universidade Zeta,Psicologia,5,1286.7,Vespertino,2023-12-29
+702,Instituto Beta de Tecnologia,Direito,5,1176.06,Noturno,2016-01-22
+703,Universidade Zeta,Enfermagem,5,1799.0,Matutino,2022-01-03
+704,Instituto Beta de Tecnologia,Direito,5,1169.5,Vespertino,2017-06-24
+705,Centro Universitário Theta,Psicologia,5,835.91,Matutino,2014-03-25
+706,Faculdade Iota,Engenharia Civil,5,2111.82,Noturno,2018-12-14
+707,Universidade Zeta,Arquitetura,5,1339.9,Vespertino,2014-05-12
+708,Instituto Beta de Tecnologia,Medicina,6,9240.11,Noturno,2018-06-27
+709,Instituto Eta de Ciências,Medicina,6,6195.59,Matutino,2014-06-17
+710,Centro Universitário Theta,Administração,4,481.98,Noturno,2013-02-15
+711,Centro Universitário Theta,Odontologia,5,4034.65,Noturno,2017-01-27
+712,Faculdade Delta,Medicina,6,9331.59,Vespertino,2019-02-04
+713,Centro Universitário Theta,Engenharia Civil,5,2122.77,Noturno,2018-07-02
+714,Centro Universitário Gamma,Enfermagem,5,1208.96,Vespertino,2017-07-10
+715,Centro Universitário Theta,Medicina,6,10194.62,Noturno,2020-08-26
+716,Faculdade Delta,Engenharia Civil,5,1695.13,Noturno,2013-04-29
+717,Universidade Zeta,Enfermagem,5,1324.17,Vespertino,2018-05-25
+718,Universidade Alpha,Administração,4,732.95,Noturno,2020-05-26
+719,Faculdade Delta,Psicologia,5,969.19,Noturno,2016-09-09
+720,Universidade Alpha,Medicina,6,6004.07,Matutino,2013-12-09
+721,Escola Superior Kappa,Engenharia Civil,5,2234.76,Vespertino,2018-12-08
+722,Escola Superior Epsilon,Arquitetura,5,2092.03,Noturno,2022-11-28
+723,Instituto Beta de Tecnologia,Enfermagem,5,1571.69,Vespertino,2020-08-10
+724,Escola Superior Kappa,Enfermagem,5,1162.66,Noturno,2016-12-30
+725,Escola Superior Kappa,Enfermagem,5,869.84,Matutino,2013-12-27
+726,Centro Universitário Theta,Psicologia,5,1045.69,Matutino,2019-07-27
+727,Universidade Alpha,Odontologia,5,3310.88,Matutino,2014-08-19
+728,Escola Superior Kappa,Arquitetura,5,1312.95,Noturno,2014-04-20
+729,Instituto Beta de Tecnologia,Psicologia,5,1263.64,Matutino,2023-11-27
+730,Universidade Zeta,Engenharia Civil,5,2436.48,Vespertino,2021-08-10
+731,Escola Superior Kappa,Economia,4,1296.77,Noturno,2022-03-17
+732,Centro Universitário Gamma,Medicina,6,6832.76,Vespertino,2015-05-10
+733,Instituto Beta de Tecnologia,Psicologia,5,997.13,Vespertino,2017-01-26
+734,Instituto Eta de Ciências,Psicologia,5,1019.72,Matutino,2018-03-10
+735,Centro Universitário Gamma,Medicina,6,11836.81,Noturno,2022-08-27
+736,Escola Superior Epsilon,Engenharia Civil,5,1734.5,Matutino,2014-08-18
+737,Centro Universitário Gamma,Direito,5,1036.3,Vespertino,2013-12-02
+738,Faculdade Iota,Psicologia,5,1009.19,Noturno,2017-07-31
+739,Instituto Beta de Tecnologia,Psicologia,5,918.48,Matutino,2016-01-27
+740,Faculdade Delta,Arquitetura,5,2024.66,Noturno,2022-04-23
+741,Instituto Eta de Ciências,Odontologia,5,2977.95,Matutino,2013-01-12
+742,Faculdade Delta,Arquitetura,5,1707.66,Matutino,2018-12-24
+743,Universidade Zeta,Engenharia Civil,5,1935.95,Vespertino,2016-01-23
+744,Universidade Alpha,Direito,5,1020.36,Vespertino,2014-09-09
+745,Instituto Eta de Ciências,Psicologia,5,813.22,Matutino,2014-12-08
+746,Instituto Eta de Ciências,Direito,5,1055.93,Matutino,2015-09-10
+747,Faculdade Delta,Medicina,6,9998.86,Vespertino,2020-07-31
+748,Instituto Beta de Tecnologia,Economia,4,932.12,Vespertino,2017-01-13
+749,Centro Universitário Gamma,Ciência da Computação,4,2837.04,Noturno,2021-03-23
+750,Escola Superior Epsilon,Economia,4,1253.74,Noturno,2023-11-02
+751,Centro Universitário Theta,Arquitetura,5,1739.14,Noturno,2018-01-27
+752,Escola Superior Epsilon,Administração,4,842.08,Noturno,2023-02-22
+753,Universidade Zeta,Economia,4,918.81,Vespertino,2015-09-09
+754,Faculdade Delta,Direito,5,1609.45,Noturno,2023-09-18
+755,Instituto Eta de Ciências,Administração,4,719.11,Matutino,2021-10-02
+756,Centro Universitário Gamma,Psicologia,5,775.68,Matutino,2013-11-10
+757,Instituto Eta de Ciências,Ciência da Computação,4,1573.26,Matutino,2014-10-09
+758,Centro Universitário Gamma,Administração,4,514.06,Matutino,2014-02-24
+759,Faculdade Iota,Ciência da Computação,4,3047.55,Matutino,2022-05-22
+760,Universidade Zeta,Odontologia,5,4246.41,Vespertino,2018-06-27
+761,Faculdade Delta,Arquitetura,5,1532.56,Matutino,2016-10-18
+762,Escola Superior Kappa,Ciência da Computação,4,2584.69,Matutino,2020-07-15
+763,Universidade Alpha,Ciência da Computação,4,1563.95,Noturno,2013-02-18
+764,Centro Universitário Gamma,Economia,4,974.87,Noturno,2018-01-12
+765,Instituto Beta de Tecnologia,Direito,5,1094.95,Vespertino,2014-11-14
+766,Centro Universitário Theta,Ciência da Computação,4,1713.6,Matutino,2015-02-02
+767,Centro Universitário Gamma,Arquitetura,5,1478.48,Vespertino,2015-04-18
+768,Faculdade Iota,Arquitetura,5,2179.78,Matutino,2023-03-13
+769,Escola Superior Epsilon,Engenharia Civil,5,2014.22,Noturno,2017-12-17
+770,Faculdade Delta,Administração,4,788.45,Vespertino,2023-11-13
+771,Centro Universitário Gamma,Enfermagem,5,1855.58,Noturno,2023-04-24
+772,Escola Superior Epsilon,Direito,5,1156.6,Matutino,2016-03-04
+773,Faculdade Delta,Direito,5,1382.64,Noturno,2020-02-21
+774,Escola Superior Kappa,Administração,4,737.36,Noturno,2021-01-05
+775,Universidade Zeta,Administração,4,818.54,Matutino,2023-12-17
+776,Universidade Alpha,Direito,5,1019.68,Vespertino,2013-07-27
+777,Instituto Eta de Ciências,Arquitetura,5,1376.6,Vespertino,2014-12-24
+778,Centro Universitário Gamma,Psicologia,5,840.79,Matutino,2015-01-27
+779,Centro Universitário Gamma,Economia,4,947.53,Matutino,2016-11-10
+780,Escola Superior Epsilon,Administração,4,698.02,Noturno,2019-05-25
+781,Faculdade Delta,Direito,5,1123.75,Matutino,2015-06-21
+782,Instituto Eta de Ciências,Ciência da Computação,4,1443.23,Matutino,2013-02-07
+783,Universidade Alpha,Ciência da Computação,4,2142.58,Noturno,2017-08-31
+784,Escola Superior Kappa,Ciência da Computação,4,3332.8,Noturno,2023-12-28
+785,Instituto Beta de Tecnologia,Engenharia Civil,5,2216.24,Noturno,2019-12-06
+786,Faculdade Iota,Medicina,6,5774.53,Vespertino,2013-11-24
+787,Escola Superior Kappa,Enfermagem,5,1261.95,Matutino,2017-02-12
+788,Universidade Zeta,Medicina,6,8841.55,Noturno,2018-11-13
+789,Instituto Eta de Ciências,Arquitetura,5,1403.86,Matutino,2015-04-10
+790,Faculdade Iota,Medicina,6,7241.04,Vespertino,2015-05-12
+791,Escola Superior Epsilon,Direito,5,1105.85,Vespertino,2015-08-25
+792,Centro Universitário Gamma,Engenharia Civil,5,1796.14,Noturno,2014-05-16
+793,Universidade Alpha,Medicina,6,9964.67,Vespertino,2020-01-14
+794,Centro Universitário Gamma,Psicologia,5,1180.52,Matutino,2022-01-11
+795,Universidade Zeta,Economia,4,784.42,Matutino,2013-09-27
+796,Centro Universitário Theta,Economia,4,1123.16,Vespertino,2019-11-23
+797,Centro Universitário Theta,Odontologia,5,5606.46,Noturno,2021-11-02
+798,Universidade Alpha,Administração,4,651.02,Vespertino,2019-11-19
+799,Instituto Eta de Ciências,Direito,5,1219.66,Matutino,2018-04-05
+800,Faculdade Delta,Administração,4,526.65,Matutino,2014-06-19
+801,Escola Superior Epsilon,Direito,5,1518.29,Vespertino,2021-11-01
+802,Instituto Beta de Tecnologia,Enfermagem,5,1092.43,Matutino,2016-05-13
+803,Instituto Beta de Tecnologia,Engenharia Civil,5,2094.5,Vespertino,2018-05-03
+804,Universidade Zeta,Economia,4,1072.19,Vespertino,2020-02-06
+805,Escola Superior Kappa,Arquitetura,5,1908.4,Noturno,2020-10-10
+806,Instituto Beta de Tecnologia,Medicina,6,6463.18,Matutino,2014-10-19
+807,Centro Universitário Gamma,Odontologia,5,3152.65,Vespertino,2014-09-25
+808,Centro Universitário Theta,Engenharia Civil,5,2881.4,Matutino,2023-10-16
+809,Universidade Alpha,Ciência da Computação,4,1827.62,Vespertino,2015-11-10
+810,Centro Universitário Theta,Medicina,6,10719.05,Matutino,2021-12-31
+811,Universidade Zeta,Arquitetura,5,1617.85,Noturno,2018-02-22
+812,Escola Superior Kappa,Psicologia,5,1054.27,Vespertino,2019-08-03
+813,Instituto Beta de Tecnologia,Engenharia Civil,5,2058.64,Matutino,2017-02-22
+814,Universidade Alpha,Ciência da Computação,4,1675.32,Vespertino,2014-12-02
+815,Centro Universitário Theta,Ciência da Computação,4,1531.3,Vespertino,2013-06-06
+816,Universidade Alpha,Administração,4,629.76,Noturno,2017-09-06
+817,Escola Superior Epsilon,Administração,4,521.69,Vespertino,2014-06-11
+818,Instituto Beta de Tecnologia,Direito,5,1647.85,Vespertino,2023-07-08
+819,Universidade Zeta,Engenharia Civil,5,2820.69,Vespertino,2023-10-18
+820,Instituto Eta de Ciências,Economia,4,794.93,Noturno,2013-02-08
+821,Centro Universitário Theta,Direito,5,1028.6,Noturno,2013-07-20
+822,Instituto Eta de Ciências,Psicologia,5,773.55,Vespertino,2013-08-26
+823,Faculdade Delta,Enfermagem,5,904.71,Matutino,2013-04-12
+824,Faculdade Iota,Arquitetura,5,1600.18,Vespertino,2017-03-26
+825,Escola Superior Kappa,Odontologia,5,6637.22,Vespertino,2023-12-04
+826,Centro Universitário Theta,Arquitetura,5,2061.96,Matutino,2022-04-13
+827,Universidade Alpha,Engenharia Civil,5,2591.52,Matutino,2022-07-30
+828,Faculdade Iota,Economia,4,801.23,Noturno,2013-10-29
+829,Centro Universitário Gamma,Engenharia Civil,5,2395.67,Vespertino,2020-03-08
+830,Instituto Beta de Tecnologia,Administração,4,678.76,Vespertino,2020-12-01
+831,Escola Superior Kappa,Psicologia,5,831.32,Vespertino,2014-02-09
+832,Universidade Zeta,Administração,4,598.39,Vespertino,2016-07-15
+833,Escola Superior Epsilon,Enfermagem,5,1714.12,Matutino,2022-02-06
+834,Escola Superior Kappa,Arquitetura,5,1672.68,Matutino,2018-07-31
+835,Centro Universitário Gamma,Ciência da Computação,4,3104.13,Matutino,2023-01-07
+836,Faculdade Delta,Direito,5,1484.79,Vespertino,2022-01-29
+837,Universidade Zeta,Administração,4,719.02,Vespertino,2020-09-01
+838,Universidade Alpha,Economia,4,1216.51,Matutino,2022-08-06
+839,Centro Universitário Gamma,Ciência da Computação,4,2292.88,Vespertino,2018-07-30
+840,Escola Superior Epsilon,Engenharia Civil,5,1651.4,Noturno,2013-04-15
+841,Instituto Beta de Tecnologia,Ciência da Computação,4,2416.64,Matutino,2019-10-03
+842,Centro Universitário Gamma,Economia,4,782.59,Matutino,2013-06-05
+843,Centro Universitário Theta,Ciência da Computação,4,2307.77,Matutino,2019-04-25
+844,Instituto Beta de Tecnologia,Odontologia,5,3904.4,Noturno,2017-01-11
+845,Faculdade Iota,Arquitetura,5,1398.25,Matutino,2014-05-09
+846,Faculdade Delta,Medicina,6,8986.56,Matutino,2018-02-02
+847,Universidade Zeta,Administração,4,603.77,Matutino,2017-06-09
+848,Universidade Alpha,Engenharia Civil,5,1779.96,Vespertino,2013-12-23
+849,Escola Superior Kappa,Economia,4,836.39,Noturno,2014-10-16
+850,Faculdade Iota,Ciência da Computação,4,1690.94,Vespertino,2015-04-22
+851,Universidade Alpha,Enfermagem,5,1057.32,Noturno,2015-02-14
+852,Escola Superior Epsilon,Psicologia,5,1354.84,Matutino,2023-09-15
+853,Universidade Zeta,Psicologia,5,1102.09,Matutino,2019-09-11
+854,Faculdade Iota,Arquitetura,5,1406.62,Matutino,2015-02-10
+855,Escola Superior Epsilon,Enfermagem,5,1236.9,Vespertino,2017-10-04
+856,Faculdade Delta,Economia,4,1045.64,Noturno,2019-06-07
+857,Escola Superior Epsilon,Medicina,6,9016.09,Vespertino,2018-10-27
+858,Universidade Alpha,Odontologia,5,6488.04,Noturno,2023-10-03
+859,Faculdade Delta,Engenharia Civil,5,2007.26,Vespertino,2016-06-28
+860,Instituto Eta de Ciências,Arquitetura,5,1830.67,Vespertino,2020-09-19
+861,Centro Universitário Theta,Ciência da Computação,4,2604.65,Vespertino,2020-03-24
+862,Centro Universitário Gamma,Psicologia,5,1353.92,Matutino,2023-10-10
+863,Faculdade Iota,Enfermagem,5,1258.99,Noturno,2018-01-12
+864,Escola Superior Kappa,Administração,4,631.23,Matutino,2018-01-26
+865,Faculdade Iota,Direito,5,1338.71,Noturno,2018-07-05
+866,Escola Superior Kappa,Psicologia,5,1148.74,Noturno,2020-09-29
+867,Instituto Beta de Tecnologia,Enfermagem,5,1720.54,Noturno,2021-02-20
+868,Escola Superior Kappa,Engenharia Civil,5,2791.38,Noturno,2023-03-31
+869,Escola Superior Kappa,Administração,4,694.58,Vespertino,2019-02-01
+870,Centro Universitário Gamma,Medicina,6,8541.04,Noturno,2017-09-01
+871,Instituto Beta de Tecnologia,Direito,5,1382.81,Noturno,2019-08-01
+872,Universidade Alpha,Engenharia Civil,5,2058.0,Noturno,2016-11-03
+873,Instituto Eta de Ciências,Medicina,6,6732.21,Noturno,2015-12-01
+874,Faculdade Iota,Administração,4,542.16,Vespertino,2014-01-19
+875,Escola Superior Epsilon,Medicina,6,5831.78,Matutino,2013-10-30
+876,Universidade Zeta,Direito,5,1500.25,Noturno,2021-01-16
+877,Centro Universitário Theta,Odontologia,5,5268.18,Vespertino,2020-03-19
+878,Faculdade Iota,Medicina,6,9291.02,Matutino,2019-11-27
+879,Escola Superior Kappa,Economia,4,1286.16,Noturno,2023-07-22
+880,Centro Universitário Theta,Direito,5,1321.72,Vespertino,2019-05-18
+881,Faculdade Delta,Engenharia Civil,5,2324.21,Matutino,2020-09-14
+882,Faculdade Iota,Administração,4,595.02,Vespertino,2016-02-20
+883,Instituto Eta de Ciências,Arquitetura,5,2115.22,Matutino,2022-04-13
+884,Instituto Beta de Tecnologia,Enfermagem,5,1357.87,Vespertino,2018-09-24
+885,Universidade Alpha,Direito,5,1226.99,Noturno,2017-05-12
+886,Faculdade Delta,Economia,4,1073.09,Noturno,2020-01-30
+887,Faculdade Iota,Psicologia,5,857.41,Vespertino,2015-08-02
+888,Universidade Zeta,Odontologia,5,3661.41,Matutino,2016-12-28
+889,Centro Universitário Gamma,Ciência da Computação,4,3052.63,Noturno,2022-05-05
+890,Universidade Alpha,Enfermagem,5,1383.13,Vespertino,2018-05-10
+891,Escola Superior Kappa,Odontologia,5,5401.54,Vespertino,2021-06-30
+892,Instituto Eta de Ciências,Psicologia,5,968.6,Vespertino,2016-10-18
+893,Universidade Zeta,Psicologia,5,885.39,Vespertino,2016-06-02
+894,Escola Superior Kappa,Medicina,6,9922.72,Vespertino,2020-09-22
+895,Universidade Alpha,Engenharia Civil,5,2851.14,Vespertino,2023-12-27
+896,Centro Universitário Gamma,Arquitetura,5,1641.45,Noturno,2018-11-24
+897,Universidade Alpha,Enfermagem,5,1015.91,Vespertino,2014-10-09
+898,Centro Universitário Gamma,Ciência da Computação,4,1560.12,Vespertino,2013-10-09
+899,Centro Universitário Theta,Medicina,6,6247.46,Matutino,2013-09-25
+900,Faculdade Iota,Arquitetura,5,1273.0,Matutino,2013-07-01
+901,Instituto Beta de Tecnologia,Economia,4,848.55,Vespertino,2014-05-15
+902,Faculdade Iota,Psicologia,5,924.66,Noturno,2016-03-21
+903,Faculdade Iota,Enfermagem,5,1974.44,Vespertino,2023-07-10
+904,Faculdade Iota,Enfermagem,5,1223.47,Matutino,2017-03-08
+905,Faculdade Iota,Medicina,6,7213.63,Noturno,2016-12-07
+906,Faculdade Delta,Administração,4,705.41,Matutino,2021-01-01
+907,Escola Superior Epsilon,Medicina,6,8413.72,Matutino,2017-10-24
+908,Escola Superior Epsilon,Administração,4,624.18,Vespertino,2018-01-22
+909,Instituto Eta de Ciências,Enfermagem,5,1927.76,Vespertino,2023-03-21
+910,Instituto Eta de Ciências,Engenharia Civil,5,1768.6,Noturno,2013-01-31
+911,Universidade Zeta,Medicina,6,12166.08,Noturno,2022-08-22
+912,Centro Universitário Gamma,Odontologia,5,4850.58,Noturno,2019-01-06
+913,Escola Superior Kappa,Enfermagem,5,1402.23,Matutino,2019-01-01
+914,Escola Superior Epsilon,Psicologia,5,910.48,Matutino,2016-03-13
+915,Instituto Beta de Tecnologia,Enfermagem,5,1749.44,Matutino,2022-11-17
+916,Escola Superior Kappa,Engenharia Civil,5,2255.94,Noturno,2019-10-24
+917,Escola Superior Kappa,Direito,5,1392.0,Vespertino,2019-12-15
+918,Instituto Beta de Tecnologia,Odontologia,5,3840.0,Matutino,2016-04-05
+919,Faculdade Delta,Odontologia,5,6706.11,Vespertino,2023-10-02
+920,Escola Superior Epsilon,Medicina,6,9577.92,Matutino,2019-09-19
+921,Centro Universitário Gamma,Direito,5,1081.32,Noturno,2014-01-21
+922,Faculdade Delta,Economia,4,1168.78,Noturno,2021-12-17
+923,Instituto Beta de Tecnologia,Engenharia Civil,5,1948.19,Noturno,2016-10-05
+924,Universidade Alpha,Psicologia,5,773.26,Vespertino,2013-04-19
+925,Instituto Beta de Tecnologia,Psicologia,5,993.8,Matutino,2018-10-02
+926,Faculdade Delta,Engenharia Civil,5,2582.29,Noturno,2021-07-11
+927,Instituto Eta de Ciências,Ciência da Computação,4,2938.92,Noturno,2022-03-12
+928,Centro Universitário Gamma,Engenharia Civil,5,2216.64,Vespertino,2018-08-21
+929,Centro Universitário Theta,Medicina,6,11902.9,Noturno,2022-08-13
+930,Instituto Eta de Ciências,Administração,4,728.35,Matutino,2020-05-08
+931,Centro Universitário Theta,Odontologia,5,6212.86,Vespertino,2022-10-20
+932,Centro Universitário Gamma,Psicologia,5,825.36,Matutino,2014-08-29
+933,Escola Superior Epsilon,Ciência da Computação,4,2132.16,Matutino,2018-12-29
+934,Faculdade Delta,Medicina,6,7548.51,Vespertino,2016-03-22
+935,Universidade Zeta,Medicina,6,10968.33,Noturno,2021-02-02
+936,Faculdade Delta,Enfermagem,5,1086.42,Vespertino,2016-05-07
+937,Centro Universitário Gamma,Economia,4,1054.3,Matutino,2019-04-27
+938,Universidade Zeta,Enfermagem,5,924.41,Noturno,2013-10-19
+939,Instituto Beta de Tecnologia,Odontologia,5,5386.31,Noturno,2020-04-04
+940,Centro Universitário Theta,Administração,4,542.86,Noturno,2015-11-21
+941,Universidade Alpha,Arquitetura,5,1602.58,Noturno,2018-03-21
+942,Faculdade Delta,Medicina,6,6963.46,Vespertino,2015-10-30
+943,Instituto Beta de Tecnologia,Direito,5,1272.72,Noturno,2018-05-23
+944,Centro Universitário Theta,Arquitetura,5,1367.56,Matutino,2014-08-18
+945,Escola Superior Epsilon,Arquitetura,5,1243.0,Matutino,2013-06-14
+946,Centro Universitário Theta,Direito,5,1598.09,Vespertino,2023-03-11
+947,Instituto Beta de Tecnologia,Direito,5,1151.52,Matutino,2015-12-08
+948,Escola Superior Kappa,Ciência da Computação,4,2912.24,Noturno,2021-04-04
+949,Faculdade Delta,Arquitetura,5,1491.33,Noturno,2015-05-09
+950,Centro Universitário Theta,Direito,5,1055.76,Vespertino,2014-12-08
+951,Instituto Eta de Ciências,Economia,4,829.53,Noturno,2014-02-10
+952,Instituto Eta de Ciências,Economia,4,1110.01,Noturno,2020-07-12
+953,Instituto Eta de Ciências,Medicina,6,5769.72,Matutino,2013-12-15
+954,Instituto Beta de Tecnologia,Odontologia,5,5826.78,Vespertino,2022-01-08
+955,Universidade Zeta,Economia,4,858.91,Matutino,2014-04-23
+956,Faculdade Delta,Odontologia,5,4128.6,Vespertino,2017-07-04
+957,Escola Superior Epsilon,Odontologia,5,5920.47,Noturno,2022-08-24
+958,Escola Superior Kappa,Medicina,6,9190.38,Matutino,2018-07-19
+959,Faculdade Delta,Economia,4,846.24,Noturno,2014-11-09
+960,Instituto Eta de Ciências,Economia,4,1058.42,Vespertino,2018-09-24
+961,Faculdade Delta,Odontologia,5,3045.24,Vespertino,2013-12-24
+962,Faculdade Iota,Economia,4,954.19,Noturno,2017-03-09
+963,Universidade Zeta,Arquitetura,5,2105.39,Matutino,2022-02-06
+964,Centro Universitário Theta,Economia,4,844.4,Noturno,2014-03-30
+965,Universidade Alpha,Odontologia,5,5775.71,Vespertino,2021-06-19
+966,Universidade Alpha,Direito,5,1177.7,Vespertino,2016-02-03
+967,Escola Superior Kappa,Engenharia Civil,5,2031.46,Vespertino,2017-03-30
+968,Instituto Beta de Tecnologia,Arquitetura,5,1254.8,Noturno,2013-01-02
+969,Universidade Zeta,Ciência da Computação,4,2206.28,Vespertino,2018-07-26
+970,Instituto Beta de Tecnologia,Enfermagem,5,1070.06,Vespertino,2015-12-10
+971,Universidade Alpha,Odontologia,5,4089.54,Noturno,2017-05-09
+972,Centro Universitário Gamma,Arquitetura,5,1536.83,Vespertino,2016-12-29
+973,Instituto Beta de Tecnologia,Engenharia Civil,5,1805.21,Noturno,2015-10-05
+974,Centro Universitário Theta,Engenharia Civil,5,2474.87,Noturno,2020-04-28
+975,Escola Superior Epsilon,Direito,5,1256.9,Noturno,2017-01-31
+976,Instituto Beta de Tecnologia,Ciência da Computação,4,2542.89,Noturno,2020-07-16
+977,Faculdade Delta,Medicina,6,6392.64,Noturno,2014-10-30
+978,Instituto Beta de Tecnologia,Engenharia Civil,5,1786.27,Matutino,2014-08-10
+979,Instituto Eta de Ciências,Administração,4,515.58,Noturno,2013-09-02
+980,Escola Superior Kappa,Enfermagem,5,1727.59,Noturno,2021-06-23
+981,Instituto Beta de Tecnologia,Enfermagem,5,1985.3,Noturno,2023-01-11
+982,Escola Superior Epsilon,Administração,4,572.45,Noturno,2016-12-12
+983,Escola Superior Epsilon,Administração,4,637.13,Matutino,2017-05-22
+984,Centro Universitário Gamma,Medicina,6,10927.63,Noturno,2021-03-31
+985,Faculdade Delta,Psicologia,5,1036.12,Vespertino,2019-01-02
+986,Centro Universitário Gamma,Economia,4,1147.05,Vespertino,2020-04-14
+987,Universidade Alpha,Ciência da Computação,4,1822.32,Noturno,2016-09-25
+988,Universidade Alpha,Medicina,6,8013.18,Vespertino,2017-10-26
+989,Faculdade Delta,Administração,4,697.54,Vespertino,2019-07-18
+990,Instituto Eta de Ciências,Psicologia,5,1173.92,Noturno,2021-06-23
+991,Faculdade Delta,Ciência da Computação,4,2021.31,Noturno,2017-08-31
+992,Universidade Alpha,Arquitetura,5,1981.02,Noturno,2022-06-13
+993,Instituto Beta de Tecnologia,Administração,4,506.06,Matutino,2013-09-26
+994,Centro Universitário Theta,Economia,4,945.37,Vespertino,2016-10-16
+995,Universidade Zeta,Ciência da Computação,4,1833.82,Noturno,2016-09-16
+996,Instituto Beta de Tecnologia,Engenharia Civil,5,2593.75,Matutino,2022-11-15
+997,Universidade Alpha,Direito,5,1402.5,Noturno,2019-06-23
+998,Universidade Alpha,Enfermagem,5,1232.57,Vespertino,2017-03-01
+999,Centro Universitário Theta,Arquitetura,5,1546.91,Noturno,2016-01-04
+1000,Escola Superior Epsilon,Enfermagem,5,1275.72,Matutino,2018-05-14
+1001,Centro Universitário Gamma,Enfermagem,5,1000.92,Vespertino,2014-11-26
+1002,Faculdade Delta,Engenharia Civil,5,2207.03,Matutino,2018-01-27
+1003,Faculdade Delta,Engenharia Civil,5,2744.13,Noturno,2022-08-13
+1004,Faculdade Iota,Odontologia,5,4914.6,Vespertino,2020-02-13
+1005,Universidade Alpha,Odontologia,5,3796.43,Noturno,2016-06-19
+1006,Centro Universitário Gamma,Medicina,6,6234.48,Matutino,2014-03-17
+1007,Universidade Zeta,Arquitetura,5,1466.09,Matutino,2015-02-21
+1008,Centro Universitário Gamma,Engenharia Civil,5,2026.94,Vespertino,2016-01-08
+1009,Faculdade Iota,Psicologia,5,1168.83,Vespertino,2021-01-09
+1010,Escola Superior Epsilon,Administração,4,509.25,Matutino,2013-11-09
+1011,Instituto Beta de Tecnologia,Direito,5,1384.67,Matutino,2020-04-07
+1012,Centro Universitário Gamma,Administração,4,735.33,Noturno,2020-07-25
+1013,Faculdade Delta,Odontologia,5,3195.1,Matutino,2014-03-28
+1014,Centro Universitário Theta,Direito,5,1198.51,Matutino,2017-06-20
+1015,Escola Superior Epsilon,Engenharia Civil,5,2155.29,Matutino,2018-09-10
+1016,Faculdade Iota,Administração,4,685.62,Vespertino,2020-11-13
+1017,Instituto Beta de Tecnologia,Ciência da Computação,4,2107.0,Noturno,2018-10-30
+1018,Escola Superior Epsilon,Psicologia,5,838.34,Vespertino,2015-04-14
+1019,Instituto Eta de Ciências,Psicologia,5,873.96,Matutino,2015-06-13
+1020,Centro Universitário Gamma,Administração,4,488.74,Matutino,2013-09-08
+1021,Faculdade Iota,Economia,4,1205.75,Vespertino,2021-03-15
+1022,Universidade Zeta,Direito,5,1617.79,Vespertino,2023-08-01
+1023,Universidade Alpha,Medicina,6,10903.78,Vespertino,2021-04-09
+1024,Centro Universitário Theta,Medicina,6,7907.56,Vespertino,2016-03-07
+1025,Escola Superior Kappa,Odontologia,5,4032.36,Matutino,2017-08-31
+1026,Instituto Eta de Ciências,Engenharia Civil,5,2087.89,Vespertino,2017-10-21
+1027,Escola Superior Epsilon,Economia,4,1113.47,Matutino,2019-10-11
+1028,Universidade Zeta,Engenharia Civil,5,1901.81,Matutino,2015-10-08
+1029,Faculdade Iota,Psicologia,5,1276.47,Noturno,2022-08-26
+1030,Faculdade Delta,Odontologia,5,4489.61,Noturno,2018-03-14
+1031,Escola Superior Kappa,Administração,4,732.02,Noturno,2020-02-18
+1032,Instituto Eta de Ciências,Engenharia Civil,5,2406.04,Matutino,2020-05-13
+1033,Centro Universitário Theta,Odontologia,5,2876.62,Vespertino,2013-07-31
+1034,Universidade Zeta,Medicina,6,6376.26,Noturno,2014-06-20
+1035,Centro Universitário Gamma,Administração,4,638.2,Noturno,2018-01-23
+1036,Escola Superior Epsilon,Ciência da Computação,4,1449.67,Matutino,2013-02-28
+1037,Faculdade Iota,Medicina,6,13191.3,Vespertino,2023-02-16
+1038,Escola Superior Kappa,Arquitetura,5,2181.63,Vespertino,2023-11-04
+1039,Universidade Zeta,Medicina,6,9821.58,Vespertino,2019-12-14
+1040,Escola Superior Epsilon,Economia,4,795.74,Noturno,2013-01-28
+1041,Instituto Beta de Tecnologia,Administração,4,570.58,Matutino,2015-09-05
+1042,Faculdade Delta,Administração,4,586.06,Vespertino,2016-09-06
+1043,Universidade Zeta,Administração,4,686.84,Noturno,2019-04-21
+1044,Escola Superior Epsilon,Engenharia Civil,5,2416.73,Noturno,2021-10-12
+1045,Faculdade Iota,Medicina,6,8388.84,Noturno,2018-11-25
+1046,Centro Universitário Gamma,Arquitetura,5,1602.87,Vespertino,2017-04-22
+1047,Escola Superior Epsilon,Odontologia,5,6370.19,Matutino,2023-09-28
+1048,Escola Superior Kappa,Medicina,6,12762.12,Vespertino,2023-02-11
+1049,Instituto Beta de Tecnologia,Arquitetura,5,1516.26,Vespertino,2017-01-05
+1050,Universidade Alpha,Administração,4,511.36,Vespertino,2013-01-07
+1051,Instituto Eta de Ciências,Odontologia,5,4230.86,Noturno,2017-04-14
+1052,Faculdade Iota,Engenharia Civil,5,2253.79,Noturno,2019-03-13
+1053,Escola Superior Epsilon,Enfermagem,5,994.37,Matutino,2014-12-05
+1054,Instituto Beta de Tecnologia,Psicologia,5,897.97,Matutino,2015-07-05
+1055,Faculdade Delta,Economia,4,1201.79,Noturno,2022-07-29
+1056,Centro Universitário Theta,Engenharia Civil,5,2277.93,Matutino,2019-10-09
+1057,Centro Universitário Gamma,Direito,5,1061.47,Noturno,2015-09-03
+1058,Instituto Eta de Ciências,Direito,5,1644.74,Vespertino,2023-03-07
+1059,Instituto Eta de Ciências,Direito,5,1538.84,Vespertino,2022-06-22
+1060,Escola Superior Epsilon,Direito,5,1385.24,Vespertino,2020-12-11
+1061,Faculdade Delta,Direito,5,1053.17,Noturno,2014-10-16
+1062,Escola Superior Epsilon,Administração,4,547.82,Matutino,2015-12-06
+1063,Faculdade Delta,Arquitetura,5,1880.4,Noturno,2020-06-06
+1064,Faculdade Iota,Engenharia Civil,5,2006.47,Noturno,2017-12-09
+1065,Instituto Beta de Tecnologia,Ciência da Computação,4,1437.89,Noturno,2013-03-04
+1066,Escola Superior Kappa,Engenharia Civil,5,1718.08,Vespertino,2014-01-01
+1067,Universidade Alpha,Engenharia Civil,5,2298.84,Noturno,2020-07-30
+1068,Instituto Eta de Ciências,Administração,4,607.25,Vespertino,2016-11-24
+1069,Faculdade Delta,Ciência da Computação,4,1894.75,Vespertino,2016-05-14
+1070,Instituto Beta de Tecnologia,Medicina,6,13267.8,Noturno,2023-10-03
+1071,Faculdade Iota,Administração,4,646.26,Noturno,2018-06-08
+1072,Faculdade Iota,Engenharia Civil,5,2636.29,Vespertino,2023-10-29
+1073,Centro Universitário Theta,Arquitetura,5,1915.43,Matutino,2021-05-30
+1074,Instituto Eta de Ciências,Enfermagem,5,1728.73,Vespertino,2021-01-13
+1075,Centro Universitário Gamma,Ciência da Computação,4,1850.37,Vespertino,2016-08-10
+1076,Centro Universitário Theta,Enfermagem,5,1694.78,Matutino,2021-03-21
+1077,Universidade Zeta,Odontologia,5,4942.13,Vespertino,2020-06-22
+1078,Universidade Zeta,Economia,4,1000.02,Matutino,2018-10-14
+1079,Centro Universitário Gamma,Odontologia,5,2882.59,Matutino,2013-01-25
+1080,Instituto Eta de Ciências,Arquitetura,5,2050.39,Vespertino,2023-04-25
+1081,Instituto Eta de Ciências,Arquitetura,5,1625.73,Matutino,2018-12-04
+1082,Instituto Beta de Tecnologia,Economia,4,775.63,Noturno,2013-02-28
+1083,Instituto Eta de Ciências,Administração,4,524.41,Matutino,2014-09-02
+1084,Universidade Alpha,Ciência da Computação,4,2457.02,Vespertino,2019-10-15
+1085,Centro Universitário Gamma,Enfermagem,5,1610.33,Noturno,2021-11-30
+1086,Universidade Alpha,Arquitetura,5,1672.63,Noturno,2019-09-16
+1087,Universidade Zeta,Odontologia,5,3397.11,Vespertino,2014-04-29
+1088,Faculdade Iota,Direito,5,1481.25,Noturno,2021-10-02
+1089,Centro Universitário Gamma,Enfermagem,5,1026.09,Vespertino,2015-02-19
+1090,Universidade Alpha,Economia,4,1017.41,Matutino,2017-01-08
+1091,Centro Universitário Gamma,Direito,5,1608.65,Vespertino,2022-01-30
+1092,Escola Superior Kappa,Odontologia,5,4893.1,Vespertino,2019-06-07
+1093,Escola Superior Kappa,Economia,4,1210.4,Matutino,2021-01-30
+1094,Escola Superior Kappa,Administração,4,563.06,Matutino,2015-11-28
+1095,Faculdade Iota,Odontologia,5,3227.0,Matutino,2014-05-27
+1096,Escola Superior Kappa,Medicina,6,6061.28,Vespertino,2013-01-20
+1097,Instituto Eta de Ciências,Enfermagem,5,1373.69,Matutino,2018-12-29
+1098,Escola Superior Epsilon,Odontologia,5,5024.86,Noturno,2020-11-20
+1099,Escola Superior Epsilon,Enfermagem,5,1530.52,Noturno,2020-07-27
+1100,Instituto Beta de Tecnologia,Odontologia,5,3022.75,Vespertino,2013-01-21
